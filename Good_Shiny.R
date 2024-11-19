@@ -6,7 +6,8 @@ library(DT)
 library(ggplot2)
 
 # Charger les données
-file_path <- "_SharedFolder_GlobalES/Dashboard/Canada/json_files/ses_lang.json"
+variable <- "ses_lang"
+file_path <- paste0("_SharedFolder_GlobalES/Dashboard/Canada/json_files/", variable, ".json")
 mesdonnees <- fromJSON(file = file_path)
 df_donnees <- as.data.frame(mesdonnees)
 
