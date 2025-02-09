@@ -1,0 +1,23 @@
+library(dplyr)
+
+# Load the data
+Df_raw <- read.csv("_SharedFolder_global_es/data/canada/raw/ces_79.csv")
+
+# Create clean dataframe
+Df_clean <- data.frame(id = 1:nrow(Df_raw))
+
+# Clean ses
+
+source("R/canada/ces_79/ces_79_ses.R")
+
+# Clean vote
+
+source("R/canada/ces_79/ces_79_vote")
+
+# Clean issues
+
+source("R/canada/ces_79/ces_79_issues")
+
+
+# Save data
+saveRDS(Df_clean, "_SharedFolder_global_es/data/canada/clean/ces_79.rds")
