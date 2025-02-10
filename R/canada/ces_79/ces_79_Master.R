@@ -8,15 +8,31 @@ Df_clean <- data.frame(id = 1:nrow(Df_raw))
 
 # Clean ses
 
-source("R/canada/ces_79/ces_79_ses.R")
+source("R/canada/ces_79/ces_79_Ses.R")
 
-# Clean vote
+# Clean values
 
-source("R/canada/ces_79/ces_79_vote")
+source("R/canada/ces_79/ces_79_Values.R")
+
+# Clean PartyId
+
+source("R/canada/ces_79/ces_79_Party_Id.R")
+
+# Clean Party_Eval
+
+source("R/canada/ces_79/ces_79_Party_Eval.R")
+
+# Clean Leader_Eval
+
+source("R/canada/ces_79/ces_79_Leader_Eval.R")
+
+# Clean Vote
+
+source("R/canada/ces_79/ces_79_Vote")
 
 # Clean issues
 
-source("R/canada/ces_79/ces_79_issues")
+source("R/canada/ces_79/ces_79_Issues.R")
 
 
 # Save data
