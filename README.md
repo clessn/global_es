@@ -32,7 +32,7 @@ Avant de commencer, il est important de comprendre qu'une variable peut être co
 
     -   \_cat : Pour une variable catégorielle
 
-    -   \_numeric : Pour une variable numérique
+    -   \_num : Pour une variable numérique
 
     -   Exemple : `ses_genderFemale_bin` et `lifestyle_goFishingFreq_numeric`
 
@@ -40,7 +40,8 @@ Avant de commencer, il est important de comprendre qu'une variable peut être co
 
 Il est important de nommer chaque dataframe en utilisant une lettre majuscule pour la première lettre. Cela permet d'identifier facilement la différence entre une variable et un dataframe.
 
--   Exemple : `Data_covid`
+-   Exemple : `DataClean`
+-   Exemple : 'DataRaw'
 
 ## Utilisation de \"pro\" et \"reduce\"
 
