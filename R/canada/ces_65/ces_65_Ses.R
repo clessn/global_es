@@ -18,10 +18,11 @@ table(DataClean_65$ses_language)
 ## gender -------------------------------------------------------------------------
 
 
-table(DataRaw_65$)
-
-
-
+table(DataRaw_65$v337)
+DataClean_65$ses_genderFemale_bin <- NA
+DataClean_65$ses_genderFemale_bin[DataRaw_65$v337 == "female"] <- 1
+DataClean_65$ses_genderFemale_bin[DataRaw_65$v337 != "female"] <- 0
+table(DataClean_65$ses_genderFemale_bin)
 
 ## income ------------------------------------------------------------------
 
@@ -162,7 +163,13 @@ table(DataClean_65$ses_age55p)
 
 
 ## religiosity -------------------------------------------------------------
+ ######## R'S CHURCH ATTENDANCE ######## 
 
 table(DataRaw_65$v310)
-Data_clean_65$ses_religosity <- NA
-
+DataClean_65$ses_religosity_num <- NA
+DataClean_65$ses_religosity_num[DataRaw_65$v310 == "never"] <- 0 / 4
+DataClean_65$ses_religosity_num[DataRaw_65$v310 == "a few times a year or less"] <- 1 / 4
+DataClean_65$ses_religosity_num[DataRaw_65$v310 == "once a month"] <- 2 / 4
+DataClean_65$ses_religosity_num[DataRaw_65$v310 == "2 or 3 times monthly"] <- 3 / 4
+DataClean_65$ses_religosity_num[DataRaw_65$v310 == "at least weekly"] <- 4 / 4
+table(DataClean_65$ses_religosity_num)

@@ -7,6 +7,7 @@ Df_raw_68 <- read.csv("_SharedFolder_global_es/data/canada/raw/ces68_RawData_201
 Df_clean_68 <- data.frame(id = 1:nrow(Df_raw_68))
 Df_clean_68$year <- 1968
 Df_clean_68$country <- "ca"
+
 # Clean ses
 
 source("R/canada/ces_68/ces_68_ses.R")
