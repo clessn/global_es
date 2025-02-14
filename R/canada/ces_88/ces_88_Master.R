@@ -1,38 +1,40 @@
 library(dplyr)
 
 # Load the data
-Df_raw <- read.csv("_SharedFolder_global_es/data/canada/raw/ces_88.csv")
+Df_raw_88 <- read.csv("_SharedFolder_global_es/data/canada/raw/ces88_RawData_2018-09-03.csv")
 
 # Create clean dataframe
-Df_clean <- data.frame(id = 1:nrow(Df_raw))
+Df_clean_88 <- data.frame(id = 1:nrow(Df_raw_88))
+Df_clean_88$year <- 1988
+Df_clean_88$country <- "ca"
 
 # Clean ses
 
-source("R/canada/ces_88/ces_88_Ses.R")
+source("R/canada/ces_88/ces_88_ses.R")
 
 # Clean values
 
-source("R/canada/ces_88/ces_88_Values.R")
+source("R/canada/ces_88/ces_88_values.R")
 
 # Clean PartyId
 
-source("R/canada/ces_88/ces_88_Party_Id.R")
+source("R/canada/ces_88/ces_88_party_id.R")
 
 # Clean Party_Eval
 
-source("R/canada/ces_88/ces_88_Party_Eval.R")
+source("R/canada/ces_88/ces_88_party_eval.R")
 
 # Clean Leader_Eval
 
-source("R/canada/ces_88/ces_88_Leader_Eval.R")
+source("R/canada/ces_88/ces_88_leader_eval.R")
 
 # Clean Vote
 
-source("R/canada/ces_88/ces_88_Vote")
+source("R/canada/ces_88/ces_88_vote")
 
 # Clean issues
 
-source("R/canada/ces_88/ces_88_Issues.R")
+source("R/canada/ces_88/ces_88_issues.R")
 
 
 # Save data

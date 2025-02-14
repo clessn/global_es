@@ -77,9 +77,35 @@ table(Df_clean_65$ses_matStatus)
 
 ## education ---------------------------------------------------------------
 
+
 table(Df_raw_65$v307)
 
 
+### education below hs ------------------------------------------------------
+
+
+Df_clean_65$ses_educBHS <- NA
+Df_clean_65$ses_educBHS[Df_raw_65$v307 < 12] <- 1
+Df_clean_65$ses_educBHS[Df_raw_65$v307 > 12] <- 0
+table(Df_clean_65$ses_educBHS)
+
+
+### education hs ---------------------------------------------------
+
+
+Df_clean_65$ses_educHS <- NA
+Df_clean_65$ses_educHS[Df_raw_65$v307==12 | Df_raw_65$v307==13] <- 1
+Df_clean_65$ses_educHS[Df_raw_65$v307!=12 & Df_raw_65$v307!=13] <- 0
+table(Df_clean_65$ses_educHS)
+
+
+# education more hs -------------------------------------------------------
+
+
+Df_clean_65$ses_educUniv <- NA
+Df_clean_65$ses_educUniv[Df_raw_65$v307>13] <- 1
+Df_clean_65$ses_educUniv[Df_raw_65$v307<13] <- 0
+table(Df_clean_65$ses_educUniv)
 
 ## age ---------------------------------------------------------------------
 
