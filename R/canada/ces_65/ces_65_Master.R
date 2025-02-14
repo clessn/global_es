@@ -1,38 +1,38 @@
 library(dplyr)
 
 # Load the data
-Df_raw <- read.csv("_SharedFolder_global_es/data/canada/raw/ces_1965.csv")
+Df_raw_65 <- read.csv("_SharedFolder_global_es/data/canada/raw/ces65_RawData_2018-08-28.csv")
 
 # Create clean dataframe
-Df_clean <- data.frame(id = 1:nrow(Df_raw))
+Df_clean_65 <- data.frame(id = 1:nrow(Df_raw_65))
 
 # Clean ses
 
-source("R/canada/ces_65/ces_65_Ses.R")
+source("R/canada/ces_65/ces_65_ses.R")
 
 # Clean values
 
-source("R/canada/ces_65/ces_65_Values.R")
+source("R/canada/ces_65/ces_65_values.R")
 
 # Clean PartyId
 
-source("R/canada/ces_65/ces_65_Party_Id.R")
+source("R/canada/ces_65/ces_65_party_id.R")
 
 # Clean Party_Eval
 
-source("R/canada/ces_65/ces_65_Party_Eval.R")
+source("R/canada/ces_65/ces_65_party_eval.R")
 
 # Clean Leader_Eval
 
-source("R/canada/ces_65/ces_65_Leader_Eval.R")
+source("R/canada/ces_65/ces_65_leader_eval.R")
 
 # Clean Vote
 
-source("R/canada/ces_65/ces_65_Vote")
+source("R/canada/ces_65/ces_65_vote")
 
 # Clean issues
 
-source("R/canada/ces_65/ces_65_Issues.R")
+source("R/canada/ces_65/ces_65_issues.R")
 
 
 # Save data
