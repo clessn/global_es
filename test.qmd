@@ -1,0 +1,5143 @@
+#  ces_00 
+
+1. Respondent Identification Number
+     -  NA 
+
+2. Sample Subsets <Replicate>
+     -  NA 
+
+3. Day of Sample Release
+     -  NA 
+
+4. Telephone Area Code
+     -  NA 
+
+5. Province of Interview
+     -  Nfld: 10 
+     -   PEI: 11 
+     -   NS: 12 
+     -   NB: 13 
+     -   Quebec: 24 
+     -   Ontario: 35 
+     -   Manitoba: 46 
+     -   Sask: 47 
+     -   Alberta: 48 
+     -   BC: 59 
+     -   Yukon: 60 
+     -   NWT: 61 
+
+6. Question Order/Random Delivery <K1A/K1B>
+     -  goto K1A: 1 
+     -   goto K1B: 2 
+
+7. Question Order/Random Delivery <G4A/G4B/G4C>
+     -  goto G4A: 1 
+     -   goto G4B: 2 
+     -   goto G4C: 3 
+
+8. Federal Electoral District 1987 Representation Order from CES Sample
+     -  NA 
+
+9. Federal Electoral District 1987 Representation Order from PCCF Nov/00
+     -  NA 
+
+10. Federal Electoral District 1996 Representation Order from PCCF Nov/00
+     -  NA 
+
+11. FED96 Needs Further Investigation
+     -  Rural Postal Code: Could be more than one FED link: 0 
+
+12. Total Number of Call Attempts
+     -  NA 
+
+13. Number of Refusals Before Completion
+     -  NA 
+
+14. Total Times Respondent Contacted
+     -  NA 
+
+15. Number of Times Telephone Answered
+     -  NA 
+
+16. Length of Interview <Minutes>
+     -  NA 
+
+17. Date of Interview <MMDDYYYY>
+     -  NA 
+
+18. Month of Interview <MM>
+     -  October: 10 
+     -   November: 11 
+     -   December: 12 
+
+19. Day of Interview <DD>
+     -  NA 
+
+20. Year of Interview <YYYY>
+     -  NA 
+
+21. Interviewer's Number (# of Interviews)
+     -  Supervisor: 999 
+
+22. Language of Interview
+     -  English: 1 
+     -   French: 2 
+
+23. Number of Adults in Household
+     -  NA 
+
+24. Respondent's Gender
+     -  Male: 1 
+     -   Female: 5 
+
+25. What is the most important issue to YOU PERSONALLY in this FEDERAL election?
+     -  Create jobs / reduce unemployment: 10 
+     -   Jobs for youth: 11 
+     -   Want/need job security: 12 
+     -   Lack of jobs in the East: 13 
+     -   Need job training, re-training: 14 
+     -   Concentrate: jobs/ unemployment: 15 
+     -   Education/health education: 16 
+     -   Local issues: 17 
+     -   General mention: debt, deficit,etc: 20 
+     -   Continue reducing debt: 21 
+     -   Debt - eliminate: 22 
+     -   Continue reducing deficit: 23 
+     -   Deficit - eliminate: 24 
+     -   Continue fiscal policy/restraints: 25 
+     -   Balance the budget: 26 
+     -   Create jobs/ reduce deficit/budget: 27 
+     -   General mention: economy / reform: 30 
+     -   Fight inflation: 31 
+     -   Keep interest rates down: 32 
+     -   Improve economy/bring prosperity: 33 
+     -   Strengthen/stimulate the economy: 34 
+     -   Economy/budget and jobs: 35 
+     -   Need to stabilize the economy: 36 
+     -   Lie/screw us around/spend our $: 40 
+     -   Nothing/not really sure/not much: 41 
+     -   Won by default/no choice: 42 
+     -   Cater to Quebec: 43 
+     -   Cater to Ontario: 44 
+     -   Elected by Ont/Quebec: 45 
+     -   To try to keep their promises: 46 
+     -   Because early election called: 47 
+     -   To beat other parties: 48 
+     -   To change/get new ideas: 49 
+     -   General mention (taxes): 50 
+     -   Abolish GST taxes: 51 
+     -   Cut GST taxes: 52 
+     -   Keep taxes down: 53 
+     -   Jobs and taxes both mentions: 54 
+     -   Fairer taxation: 55 
+     -   Other policy issues: 56 
+     -   General mention of health care: 57 
+     -   Continue the cutbacks: 58 
+     -   Maintain health care/ more $: 59 
+     -   Protect social programs & services: 60 
+     -   Protect old age pensions/security: 61 
+     -   Protect child care/family benefits: 62 
+     -   Jobs and social programmes (both): 63 
+     -   Jobs and health care (both): 64 
+     -   Health care and budget (both): 65 
+     -   Deficit and health care: 66 
+     -   Elderly, care of: 68 
+     -   Health care concern: 69 
+     -   To help Canadians: 70 
+     -   Crime / violence/gun control: 71 
+     -   To deal with poverty: 72 
+     -   Abortion: 73 
+     -   Rights: aboriginal/other groups: 74 
+     -   Environment: 75 
+     -   Moral decline: 76 
+     -   General mention Quebec: sovereignty: 80 
+     -   General mention national unity: 81 
+     -   Maintain national unity: 82 
+     -   To stop Quebec independence: 83 
+     -   Unity and economy: 84 
+     -   Unity and jobs: 85 
+     -   Unity and deficit: 86 
+     -   Unity and health care: 87 
+     -   Unity and social programmes: 88 
+     -   General mention - to carry on: 90 
+     -   Honesty, fair & accountable govt: 91 
+     -   To form a majority government: 92 
+     -   To maintain the status quo: 93 
+     -   To continue their mandate: 94 
+     -   To beat the Liberals/Chretien: 95 
+     -   To govern the country: 96 
+     -   To represent the people: 97 
+     -   don't know, not codeable: 98 
+     -   refused: 99 
+
+26. To you personally, in this Federal election, is protecting the environment very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+27. Fighting crime. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+28. Reducing the Federal debt. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+29. Promoting traditional family values. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+30. Improving health care. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+31. Improving social welfare programmes. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+32. Cutting taxes. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+33. Creating jobs. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+34. Defending the interests of Quebec. To you personally, in this Federal election, is it very important, somewhat important, or not very important?
+     -  Very important: 1 
+     -   Somewhat important: 2 
+     -   Not very important: 3 
+     -   Do not plan to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+35. On election day are you CERTAIN TO VOTE, LIKELY, UNLIKELY, or CERTAIN NOT TO VOTE?
+     -  Certain: 1 
+     -   Likely: 2 
+     -   Unlikely: 3 
+     -   Certain not to vote: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+36. Which party do you think you will vote for: the Liberal Party, the Alliance Party, the Conservative Party, the NDP (the New Democratic Party), the Bloc Quebecois or another party?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Alliance: 2 
+     -   Conservative: 3 
+     -   NDP: 4 
+     -   Bloc Quebecois: 5 
+     -   Reform: 6 
+     -   Will not vote: 96 
+     -   None: 97 
+     -   don't know / undecided: 98 
+     -   refused: 99 
+
+37. Which party you are leaning towards?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Alliance: 2 
+     -   Conservative: 3 
+     -   NDP: 4 
+     -   Bloc Quebecois: 5 
+     -   Reform: 6 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+38. And which party would be your second choice?
+     -  Liberal: 1 
+     -   Alliance: 2 
+     -   Conservative: 3 
+     -   NDP: 4 
+     -   Bloc Quebecois: 5 
+     -   Reform: 6 
+     -   Other: 96 
+     -   None, no second choice: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+39. On the whole are you VERY SATISFIED, FAIRLY SATISFIED, NOT VERY SATISFIED, or NOT SATISFIED AT ALL with the way democracy works in Canada?
+     -  Very satisfied: 1 
+     -   Fairly satisfied: 3 
+     -   Not very satisfied: 5 
+     -   Not satisfied at all: 7 
+     -   don't know: 98 
+     -   refused: 99 
+
+40. How much attention have you paid to news about the Federal election on TV over the last few days: Using a scale from zero to ten, where zero means no attention at all and ten means a great deal of attention?
+     -  No attention at all: 0 
+     -   A great deal: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+41. Using the same scale, how much attention have you paid to RADIO news about the Federal election over the last few days?
+     -  No attention at all: 0 
+     -   A great deal: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+42. Using the same scale, how much attention have you paid to news about the Federal election in the NEWSPAPERS over the last few days?
+     -  No attention at all: 0 
+     -   A great deal: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+43. Using the same scale, how interested are you in the FEDERAL election?
+     -  No interest at all: 0 
+     -   Extremely interested: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+44. Using the same scale, how interested are you in politics generally?
+     -  No interest at all: 0 
+     -   Extremely interested: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+45. Do you ever use the internet to be informed about politics?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+46. Have you used the internet to get information about this Federal election?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+47. How many days in the past week ... have you used the internet to get information about this Federal election?
+     -  No days: 0 
+     -   Seven days: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+48. Have you visited a political party's web site during this Federal election?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+49. Have you ever been contacted by a political party during this campaign?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+50. What that in person?
+     -  No: 0 
+     -   Yes: 1 
+     -   don't know: 8 
+     -   refused: 9 
+
+51. Was that by phone?
+     -  No: 0 
+     -   Yes: 1 
+     -   don't know: 8 
+     -   refused: 9 
+
+52. Was that by mail (includes flyers, pamphlets, etc., left at the door)?
+     -  No: 0 
+     -   Yes: 1 
+     -   don't know: 8 
+     -   refused: 9 
+
+53. Was that by email?
+     -  No: 0 
+     -   Yes: 1 
+     -   don't know: 8 
+     -   refused: 9 
+
+54. In the past week, have you discussed the Federal election with other people often, occasionally, or not at all?
+     -  Often: 1 
+     -   Occasionally: 3 
+     -   Not at all: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+55. I don't think the government cares much what people like me think.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+56. All federal parties are basically the same; there isn't really a choice.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+57. Do you happen to recall the name of the leader of the Federal NDP (the New Democratic Party)?
+     -  McDonough / Alexa McDonough: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+58. And the leader of the Federal Conservative Party?
+     -  Clark / Joe Clark: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+59. The leader of the Alliance Party?
+     -  Day / Stockwell Day: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+60. The leader of the Bloc Quebecois?
+     -  Duceppe / Gilles Duceppe: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+61. The leader of the Federal Liberal Party?
+     -  Chretien / Jean Chretien: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+62. Financially, are you better off, WORSE off, or about the same as a year ago?
+     -  Better off: 1 
+     -   Worse off: 3 
+     -   About the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+63. Have the policies of the Federal government made you better off, or haven't they made much difference?
+     -  Better off: 1 
+     -   Haven't made much difference: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+64. Have the policies of the Federal government made you worse off, or haven't they made much difference?
+     -  Worse off: 1 
+     -   Haven't made much difference: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+65. Do you think that a year from now you will be BETTER off financially, WORSE off, or about the same as now?
+     -  Better year from now: 1 
+     -   Worse year from now: 3 
+     -   About the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+66. Do you think UNemployment in CANADA has GONE UP, GONE DOWN, or STAYED ABOUT THE SAME since the last Federal election?
+     -  Gone up: 1 
+     -   Gone down: 3 
+     -   Stayed about the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+67. Has the quality of health care in Canada over the past five years:
+     -  Got better: 1 
+     -   Got worse: 3 
+     -   Stayed about the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+68. Which level of government is MOST responsible for health care getting...the Federal government, or the Provincial government?
+     -  Federal government: 1 
+     -   Provincial government: 5 
+     -   Both [only if R volunteers]: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+69. Has the quality of health care got worse because of poor management or because of lack of money?
+     -  Poor management: 1 
+     -   Lack of money: 5 
+     -   Both [only if R volunteers]: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+70. Do you happen to know the size of the federal budget surplus, approximately?
+     -  Response given: 1 
+     -   don't know: 998 
+     -   refused: 999 
+
+71. How much do you think should be done for Women?
+     -  Much more: 1 
+     -   Somewhat more: 2 
+     -   About the same as now: 3 
+     -   Somewhat less: 4 
+     -   Much less: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+72. How much do you think should be done for Racial Minorities?
+     -  Much more: 1 
+     -   Somewhat more: 2 
+     -   About the same as now: 3 
+     -   Somewhat less: 4 
+     -   Much less: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+73. How much do you think should be done for Quebec?
+     -  Much more: 1 
+     -   Somewhat more: 2 
+     -   About the same as now: 3 
+     -   Somewhat less: 4 
+     -   Much less: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+74. How much should be done to reduce the gap between the rich and the poor in Canada?
+     -  Much more: 1 
+     -   Somewhat more: 2 
+     -   About the same as now: 3 
+     -   Somewhat less: 4 
+     -   Much less: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+75. How much difference do you think there is between the Alliance party and the Reform party?
+     -  A lot: 1 
+     -   Some: 3 
+     -   Hardly any: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+76. Do you favour or oppose the death penalty for persons convicted of murder?
+     -  Favour: 1 
+     -   Oppose: 5 
+     -   Depends [only if R volunteers]: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+77. First Leader - Random Delivery
+     -  Clark: 1 
+     -   Chretien: 2 
+     -   McDonough: 3 
+     -   Stockwell: 4 
+     -   Duceppe: 5 
+
+78. Second Leader - Random Delivery
+     -  Clark: 1 
+     -   Chretien: 2 
+     -   McDonough: 3 
+     -   Stockwell: 4 
+     -   Duceppe: 5 
+
+79. Third Leader - Random Delivery
+     -  Clark: 1 
+     -   Chretien: 2 
+     -   McDonough: 3 
+     -   Stockwell: 4 
+     -   Duceppe: 5 
+
+80. Fourth Leader - Random Delivery
+     -  Clark: 1 
+     -   Chretien: 2 
+     -   McDonough: 3 
+     -   Stockwell: 4 
+     -   Duceppe: 5 
+
+81. Fifth Leader - Random Delivery
+     -  Clark: 1 
+     -   Chretien: 2 
+     -   McDonough: 3 
+     -   Stockwell: 4 
+     -   Duceppe: 5 
+
+82. And now, how do you feel about the party leaders?  How do you feel about JOE CLARK?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+83. How do you feel about JEAN CHRETIEN?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+84. How do you feel about ALEXA MCDONOUGH?
+     -  Really DISLIKE her: 0 
+     -   Really LIKE her: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who she is: 997 
+     -   Don't know how to rate her: 998 
+     -   refused: 999 
+
+85. How do you feel about STOCKWELL DAY?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+86. How do you feel about GILLES DUCEPPE?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+87. How do you feel about PRESTON MANNING?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+88. How do you feel about PAUL MARTIN?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+89. And on the same scale, how do you feel about POLITICIANS IN GENERAL?
+     -  Really DISLIKE them: 0 
+     -   Really LIKE them: 100 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+90. First Party (Federal) - Random Delivery
+     -  Conservative: 1 
+     -   Liberal: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Block: 5 
+
+91. Second Party (Federal) - Random Delivery
+     -  Conservative: 1 
+     -   Liberal: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Block: 5 
+
+92. Third Party (Federal) - Random Delivery
+     -  Conservative: 1 
+     -   Liberal: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Block: 5 
+
+93. Fourth Party (Federal) - Random Delivery
+     -  Conservative: 1 
+     -   Liberal: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Block: 5 
+
+94. Fifth Party (Federal) - Random Delivery
+     -  Conservative: 1 
+     -   Liberal: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Block: 5 
+
+95. Now the political parties. How do you feel about the FEDERAL Conservative party?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+96. How do you feel about the FEDERAL Liberal party?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+97. How do you feel about the FEDERAL NDP (the New Democratic Party)?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+98. How do you feel about the Alliance party?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+99. How do you feel about the Bloc Quebecois?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+100. Which party leader would YOU describe as arrogant?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+101. Which party leader would YOU describe as trustworthy?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+102. Which party leader would YOU describe as having new ideas?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+103. All the Liberal Party cares about is staying in power.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+104. The Alliance party wants to make it much harder for women to get abortions.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+105. Society would be better off if more women stayed home with their children.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+106. Gays and lesbians should be allowed to get married.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+107. The government should leave it ENTIRELY to the private sector to create jobs.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+108. Only the police and the military should be allowed to have guns.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+109. If people can't find work in the region where they live, they should move to where there are jobs.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+110. The public has a right to know where political parties and candidates get their campaign funds from.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+111. Do you think that parties and candidates should be allowed to spend as much money as they want in a Federal election campaign or should there be a limit on how much they can spend?
+     -  Should be allowed to spend as much as they want: 1 
+     -   There should be a limit: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+112. Do you think that people should be allowed to give as much money as they want to parties and candidates or should there be a limit on how much they can give?
+     -  Should give as much money as they want: 1 
+     -   There should be a limit: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+113. How good a job has the Liberal government done of: Protecting the environment?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+114. How good a job do you think has the Liberal government done of: Reducing the Federal debt?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+115. How good a job do you think has the Liberal government done of: Improving health care?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+116. How good a job do you think the Liberal government has done of: Improving social welfare programmes?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+117. How good a job do you think the Liberal government has done of: Creating jobs?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+118. How good a job do you think the Liberal government has done of: Getting along with the provincial government?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+119. How good a job do you think the Liberal government has done of: Cutting taxes?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+120. How good a job do you think the Liberal government has done of: Fighting crime?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+121. How good a job do you think the Liberal government has done of: Handling Canada's international relations?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+122. How good a job do you think the Liberal government has done of: Defending the interests of Quebec?
+     -  Very good: 1 
+     -   Quite good: 3 
+     -   Not very good: 5 
+     -   Not good at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+123. Do you think there has been a lot of corruption under the present Liberal government, some, a little or none?
+     -  A lot: 1 
+     -   Some: 3 
+     -   A little: 5 
+     -   None: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+124. Do you happen to remember which party is promising a single tax rate for people earning less than one hundred thousand dollars a year?
+     -  Alliance: 1 
+     -   Alliance and any other mention: 3 
+     -   Any other mention: 5 
+     -   No, don't remember: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+125. Which party is proposing a national prescription drug plan?
+     -  NDP: 1 
+     -   NDP and another party: 3 
+     -   Other answers: 5 
+     -   No, don't remember: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+126. Which party is promising a law to fight criminal biker gangs? / Do you happen to recall which party is proposing an anti-gang law?
+     -  Bloc Quebecois: 1 
+     -   Alliance: 2 
+     -   Bloc Quebecois and the Alliance: 3 
+     -   Bloc Quebecois and a party other than Alliance: 4 
+     -   Alliance and a party other than the Bloc Quebecois: 5 
+     -   Other answers: 6 
+     -   don't know: 8 
+     -   refused: 9 
+
+127. Do you happen to recall which party is proposing a law to pay back the debt in 25 years?
+     -  Conservative party: 1 
+     -   Conservative party and another party: 3 
+     -   Other answers: 5 
+     -   don't know: 8 
+     -   no answer: 9 
+
+128. Do you happen to recall which party is promising to use HALF of the surplus to cut taxes and pay down the debt and HALF to spend on health care and social programmes?
+     -  Liberal party: 1 
+     -   Liberal party and another party: 3 
+     -   Other answers: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+129. Now I want to ask you about the economy. Over the PAST YEAR, has CANADA's economy:
+     -  Got better: 1 
+     -   Got worse: 3 
+     -   Stayed about the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+130. Have the policies of the FEDERAL government made Canada's economy better, or haven't they made much difference?
+     -  Better: 1 
+     -   Haven't made much difference: 5 
+     -   Worse [only if R volunteers]: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+131. Have the policies of the FEDERAL government made Canada's economy worse, or haven't they made much difference?
+     -  Worse: 1 
+     -   Haven't made much difference: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+132. What about the NEXT 12 months?  Will CANADA's economy get BETTER, GET WORSE or STAY ABOUT THE SAME?
+     -  Get better: 1 
+     -   Get worse: 3 
+     -   Stay about the same: 5 
+     -   Depends who wins the election: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+133. How would YOU spend the federal budget surplus?  Would your FIRST priority be improving social programmes, cutting taxes, or reducing the debt?
+     -  Improving social programs: 1 
+     -   Cutting taxes: 3 
+     -   Reducing the debt: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+134. And would your second priority be:
+     -  Improving social programs: 1 
+     -   Cutting taxes: 3 
+     -   Reducing the debt: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+135. How much of the federal budget surplus do you think should be spent on social programmes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+136. How much of the federal budget surplus do you think should be used for cutting taxes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+137. How much of the federal budget surplus do the Liberals want used for cutting taxes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+138. How much of the federal budget surplus does the Bloc Quebecois want used for cutting taxes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+139. How much of the federal budget surplus does the Alliance want used for cutting taxes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+140. How much of the federal budget surplus does the Conservatives want used for cutting taxes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+141. How much of the federal budget surplus does the NDP want used for cutting taxes:
+     -  Almost all of it: 1 
+     -   Most: 2 
+     -   Half: 3 
+     -   Some: 4 
+     -   Almost none of it: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+142. Some people talk about political parties being on the LEFT or the RIGHT. Do you think the NDP (the New Democratic Party) is:
+     -  On the left: 1 
+     -   On the right: 3 
+     -   In the centre: 5 
+     -   Not sure: 7 
+     -   Don't understand the term, what this means: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+143. Do you think the Alliance party is on the left, on the right, in the centre, or are you not sure?
+     -  On the left: 1 
+     -   On the right: 3 
+     -   In the centre: 5 
+     -   Not sure: 7 
+     -   Don't understand the term, what this means: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+144. Do you think the Liberal party is on the left, on the right, in the centre, or are you not sure?
+     -  On the left: 1 
+     -   On the right: 3 
+     -   In the centre: 5 
+     -   Not sure: 7 
+     -   Don't understand the term, what this means: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+145. Do you think the Conservative party is on the left, on the right, in the centre, or are you not sure?
+     -  On the left: 1 
+     -   On the right: 3 
+     -   In the centre: 5 
+     -   Not sure: 7 
+     -   Don't understand the term, what this means: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+146. Do you think the Bloc Quebecois is on the left, on the right, in the centre, or are you not sure?
+     -  On the left: 1 
+     -   On the right: 3 
+     -   In the centre: 5 
+     -   Not sure: 7 
+     -   Don't understand the term, what this means: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+147. Would you say you are on the left, on the right, in the centre, or are you not sure?
+     -  On the left: 1 
+     -   On the right: 3 
+     -   In the centre: 5 
+     -   Not sure: 7 
+     -   Don't understand the term, what this means: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+148. First Party (Riding) - Random Delivery
+     -  goto I1A: 1 
+     -   goto I1B: 2 
+     -   goto I1C: 3 
+     -   goto I1D: 4 
+     -   goto I1E: 5 
+
+149. Second Party (Riding) - Random Delivery
+     -  goto I1A: 1 
+     -   goto I1B: 2 
+     -   goto I1C: 3 
+     -   goto I1D: 4 
+     -   goto I1E: 5 
+
+150. Third Party (Riding) - Random Delivery
+     -  goto I1A: 1 
+     -   goto I1B: 2 
+     -   goto I1C: 3 
+     -   goto I1D: 4 
+     -   goto I1E: 5 
+
+151. Fourth Party (Riding) - Random Delivery
+     -  goto I1A: 1 
+     -   goto I1B: 2 
+     -   goto I1C: 3 
+     -   goto I1D: 4 
+     -   goto I1E: 5 
+
+152. Fifth Party (Riding) - Random Delivery
+     -  goto I1A: 1 
+     -   goto I1B: 2 
+     -   goto I1C: 3 
+     -   goto I1D: 4 
+     -   goto I1E: 5 
+
+153. The CONSERVATIVE party's chances of winning IN YOUR RIDING?
+     -  NO chance for the party: 0 
+     -   An EVEN chance: 50 
+     -   CERTAIN victory: 100 
+     -   There is no CONSERVATIVE candidate: 996 
+     -   Don't know what CONSERVATIVE chances are: 997 
+     -   Don't know anything about RIDING: 998 
+     -   refused: 999 
+
+154. The LIBERAL party's chances of winning IN YOUR RIDING?
+     -  NO chance for the party: 0 
+     -   An EVEN chance: 50 
+     -   CERTAIN victory: 100 
+     -   There is no LIBERAL candidate: 996 
+     -   Don't know what LIBERAL chances are: 997 
+     -   Don't know anything about RIDING: 998 
+     -   refused: 999 
+
+155. The NDP's (the New Democratic Party) chances of winning IN YOUR RIDING?
+     -  NO chance for the party: 0 
+     -   An EVEN chance: 50 
+     -   CERTAIN victory: 100 
+     -   There is no NDP candidate: 996 
+     -   Don't know what NDP chances are: 997 
+     -   Don't know anything about RIDING: 998 
+     -   refused: 999 
+
+156. The Alliance party's chances of winning IN YOUR RIDING?
+     -  NO chance for the party: 0 
+     -   An EVEN chance: 50 
+     -   CERTAIN victory: 100 
+     -   There is no ALLIANCE candidate: 996 
+     -   Don't know what ALLIANCE chances are: 997 
+     -   Don't know anything about RIDING: 998 
+     -   refused: 999 
+
+157. The Bloc Quebecois chances of winning IN YOUR RIDING?
+     -  NO chance for the party: 0 
+     -   An EVEN chance: 50 
+     -   CERTAIN victory: 100 
+     -   There is no BQ candidate: 996 
+     -   Don't know what BQ chances are: 997 
+     -   Don't know anything about RIDING: 998 
+     -   refused: 999 
+
+158. In your view which party would be BEST at protecting the environment?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+159. Which party would do BEST at handling Canada's international relations?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+160. In your view, which party would be BEST at reducing the Federal debt?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+161. Which party would do BEST at fighting crime?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+162. In your view, which party would be BEST at improving health care?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+163. In your view, which party would be BEST at promoting traditional family values?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+164. Which party would do BEST at improving social welfare programmes?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+165. In your view, which party would be BEST at cutting taxes?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+166. In your view, which party would do BEST at preserving national unity?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+167. In your view, which party would do BEST at creating jobs?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+168. In your view, which party would be BEST at dealing with provincial governments?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+169. Which party would do BEST at defending the interests of Quebec?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc: 5 
+     -   They are all about the same: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+170. Do you think the gap between rich and poor in Canada has INCREASED, DECREASED, or STAYED ABOUT THE SAME over the last few years?
+     -  Increased: 1 
+     -   Decreased: 3 
+     -   Stayed the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+171. In general, would you say that Canada's Aboriginal peoples are BETTER OFF, WORSE OFF, or ABOUT THE SAME as other Canadians?
+     -  Better off: 1 
+     -   Worse off: 3 
+     -   About the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+172. Do you think the income gap between Canadians and Americans has INCREASED, DECREASED, or STAYED ABOUT THE SAME over the last few years?
+     -  Increased: 1 
+     -   Decreased: 3 
+     -   Stayed the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+173. Do you think Canada should admit more immigrants, fewer immigrants, or about the same as now?
+     -  More: 1 
+     -   Fewer: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+174. Do you think that pollution in Canada has got worse, got better or stayed about the same in the last few years?
+     -  Got worse: 1 
+     -   Got better: 3 
+     -   Stayed the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+175. Do you think that crime in Canada has gone up, gone down or stayed about  the same in the last few years?
+     -  Gone up: 1 
+     -   Gone down: 3 
+     -   Stayed the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+176. Which is the BEST way to deal with young offenders who commit violent crime: ONE: give them tougher sentences, or TWO: spend more on rehabilitating them?
+     -  Tougher sentences: 1 
+     -   Rehabilitating them: 2 
+     -   Both: 7 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+177. In general, does the federal government treat your Province BETTER, WORSE, or ABOUT THE SAME as other Provinces?
+     -  Better: 1 
+     -   Worse: 3 
+     -   About the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+178. Do political parties keep their election promises MOST OF THE TIME, SOME OF THE TIME, or HARDLY EVER?
+     -  Most of the time: 1 
+     -   Some of the time: 3 
+     -   Hardly ever: 5 
+     -   Depends which party: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+179. Time Stamp - Beginning of Vote Experiment <K1A--K3B>
+     -  NA 
+
+180. Time Stamp - End of First Vote Item <K1A--K3B>
+     -  NA 
+
+181. Time Stamp - End of Vote Experiment <K1A--K3B>
+     -  NA 
+
+182. In federal politics, do you usually think of yourself as a:.
+     -  None of these: 0 
+     -   Liberal: 1 
+     -   Bloc Quebecois: 2 
+     -   Alliance: 3 
+     -   Conservative: 4 
+     -   NDP: 5 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+183. How strongly  do you feel, very strongly, fairly strongly, or not very strongly?
+     -  Very strongly: 1 
+     -   Fairly strongly: 3 
+     -   Not very strongly: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+184. Do you generally think of yourself as being a LITTLE closer to one of the federal parties than to the others?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+185. Which party is that?
+     -  None: 0 
+     -   Liberal: 1 
+     -   Bloc Quebecois: 2 
+     -   Alliance: 3 
+     -   Conservative: 4 
+     -   NDP: 5 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+186. Generally speaking, in federal politics, do you usually think of yourself as a :
+     -  Liberal: 1 
+     -   Bloc Quebecois: 2 
+     -   Alliance: 3 
+     -   Conservative: 4 
+     -   NDP: 5 
+     -   No preference: 7 
+     -   don't know: 98 
+     -   refused: 99 
+
+187. Generally speaking, do you usually think of yourself as a very strong, a fairly strong, or a not very strong:...?
+     -  Very strong: 1 
+     -   Fairly strong: 3 
+     -   Not very strong: 5 
+     -   don't know: 98 
+     -   refused: 99 
+
+188. Generally speaking, in federal politics, do you usually think of yourself as more inclined to support the...?
+     -  Liberal: 1 
+     -   Bloc Quebecois: 2 
+     -   Alliance: 3 
+     -   Conservative: 4 
+     -   NDP: 5 
+     -   No preference: 7 
+     -   don't know: 98 
+     -   refused: 99 
+
+189. Do you happen to recall if you voted in the 1997 Federal election?
+     -  Yes: 1 
+     -   No: 5 
+     -   Not eligible (too young/not a Cdn citizen): 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+190. Which party did you vote for?
+     -  Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Reform: 4 
+     -   Bloc Quebecois: 5 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+191. Is there any Federal political party that is just too extreme?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc Quebecois: 5 
+     -   Bloc and Alliance: 6 
+     -   No: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+192. Did you see the ENGLISH TV debate among the party leaders?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+193. Which leader did the BEST in that debate?
+     -  None: 0 
+     -   Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+194. And who did the WORST?
+     -  None: 0 
+     -   Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+195. Did you see the FRENCH TV debate among the party leaders?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+196. Which leader did the BEST in that debate?
+     -  None: 0 
+     -   Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+197. And who did the WORST?
+     -  None: 0 
+     -   Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+198. Where do you get MOST of your information about the Federal election: TV, radio, newspapers, the internet, family, or friends?
+     -  Don't get information: 0 
+     -   Television: 1 
+     -   Radio: 2 
+     -   Newspapers: 3 
+     -   Internet: 4 
+     -   Family: 5 
+     -   Friends: 6 
+     -   Other: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+199. Do you recall the name of the Government Leader/Premier of...?
+     -  Any other name: 0 
+     -   Brian Tobin / Beaton Tulk: 10 
+     -   Pat Binns: 11 
+     -   Dr. John Hamm: 12 
+     -   Bernard Lord: 13 
+     -   Lucien Bouchard: 24 
+     -   Mike Harris: 35 
+     -   Gary Doer: 46 
+     -   Roy Romanow: 47 
+     -   Ralph Klein: 48 
+     -   Ujjal Dosanjh: 59 
+     -   don't know: 98 
+     -   refused: 99 
+
+200. Do you recall the name of the Minister of Finance of Canada?
+     -  Martin / Paul Martin: 1 
+     -   Any other name: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+201. Do you happen to recall the name of the Prime Minister of Canada at the time of the Free Trade Agreement with the United States?
+     -  Mulroney / Brian Mulroney: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+202. And do you happen to know the capital of the United States?
+     -  Washington DC: 1 
+     -   All other answers: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+203. Are you very angry that the Federal election was called early, somewhat angry, or not angry at all?
+     -  Very angry: 1 
+     -   Somewhat angry: 3 
+     -   Not angry at all: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+204. Do you happen to recall which party is saying that high taxes have produced a brain drain from Canada to the US?
+     -  Alliance: 1 
+     -   Alliance and another party: 3 
+     -   Other answers: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+205. Do you happen to remember which party is saying that tougher sentences will NOT reduce youth violence?
+     -  Bloc Quebecois: 1 
+     -   NDP: 2 
+     -   Bloc Quebecois and NDP: 3 
+     -   Bloc Quebecois and another party: 4 
+     -   NPD and another party: 5 
+     -   Other answers: 6 
+     -   don't know: 8 
+     -   refused: 9 
+
+206. Do you happen to recall which party says that a strong federal government is essential to preserve the Canadian health system?
+     -  Liberal: 1 
+     -   NDP: 2 
+     -   Liberal and NDP: 3 
+     -   Liberal and other(s): 4 
+     -   NDP and others: 5 
+     -   Other answers: 6 
+     -   don't know: 8 
+     -   refused: 9 
+
+207. In what year were you born?
+     -  Refused: 9999 
+
+208. Are you presently married, living with a partner, divorced, separated, widowed, or have you never been married?
+     -  Married: 1 
+     -   Living with a partner: 2 
+     -   Divorced: 3 
+     -   Separated: 4 
+     -   Widowed: 5 
+     -   Never married: 6 
+     -   don't know: 8 
+     -   refused: 9 
+
+209. What is the highest level of education that you have completed?
+     -  No schooling: 1 
+     -   Some elementary school: 2 
+     -   Completed elementary school: 3 
+     -   Some secondary / high school: 4 
+     -   Completed secondary / high school: 5 
+     -   Some technical, CAAT, CEGEP,...: 6 
+     -   Completed technical, CAAT, CEGEP,...: 7 
+     -   Some university: 8 
+     -   Bachelor's degree: 9 
+     -   Master's degree: 10 
+     -   Professional degree or doctorate: 11 
+     -   don't know: 98 
+     -   refused: 99 
+
+210. Are you presently self employed, working for pay, are you unemployed, retired, a student, or a homemaker?
+     -  Self-employed: 1 
+     -   Working for pay full time: 2 
+     -   Working for pay part time: 3 
+     -   Unemployed: 4 
+     -   Retired: 5 
+     -   Student: 6 
+     -   Homemaker: 7 
+     -   Disabled: 8 
+     -   don't know: 98 
+     -   refused: 99 
+
+211. Do you work for a private company, in the public sector, such as a hospital, school or municipality, in a government owned company, or a Federal or Provincial government ministry?
+     -  Not Working: 0 
+     -   Private company: 1 
+     -   Public sector, such as a hospital...: 3 
+     -   Government owned company: 5 
+     -   Federal or provincial government ministry: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+212. Do you or anyone in your household belong to a union?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+213. What is your religious affiliation?  Is it Protestant, Catholic, Jewish, Islam, another religion, or none?
+     -  None: 0 
+     -   Protestant: 1 
+     -   Catholic: 2 
+     -   Jewish: 3 
+     -   Islam: 4 
+     -   Other religion: 5 
+     -   don't know: 98 
+     -   refused: 99 
+
+214. What church or denomination is that?
+     -  Other: 0 
+     -   Anglican: 1 
+     -   United Church of Canada: 2 
+     -   Presbyterian: 3 
+     -   Baptist: 4 
+     -   Lutheran: 5 
+     -   Christian Reformed: 6 
+     -   Pentecostal / Fundamentalist /...: 7 
+     -   don't know: 98 
+     -   refused: 99 
+
+215. In your life, would you say religion is VERY important, SOMEWHAT important, NOT VERY important, or NOT IMPORTANT at all?
+     -  Very important: 1 
+     -   Somewhat important: 3 
+     -   Not very important: 5 
+     -   Not important at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+216. In what country were you born?
+     -  Other: 0 
+     -   Canada: 1 
+     -   USA: 2 
+     -   Puerto Rico: 3 
+     -   Brazil: 4 
+     -   Argentina: 5 
+     -   Switzerland: 6 
+     -   Australia: 7 
+     -   Iceland: 8 
+     -   Lithuania: 9 
+     -   Austria: 10 
+     -   Britain: 11 
+     -   France: 12 
+     -   Germany: 13 
+     -   Greece: 14 
+     -   Ireland: 15 
+     -   Italy: 16 
+     -   Netherlands: 17 
+     -   Portugal: 18 
+     -   Scotland: 19 
+     -   Spain: 20 
+     -   Wales: 21 
+     -   Estonia: 22 
+     -   Belarus: 23 
+     -   Denmark: 25 
+     -   Finland: 26 
+     -   Norway: 27 
+     -   Sweden: 28 
+     -   Bulgaria: 30 
+     -   Czech Republic: 31 
+     -   Hungary: 32 
+     -   Poland: 33 
+     -   Rumania: 34 
+     -   Russia: 35 
+     -   Slovakia: 36 
+     -   Ukraine: 37 
+     -   Turkey: 38 
+     -   Thailand: 39 
+     -   Albania: 40 
+     -   Bosnia: 41 
+     -   Croatia: 42 
+     -   Macedonia: 43 
+     -   Serbia: 44 
+     -   Slovenia: 45 
+     -   Yugoslavia: 46 
+     -   Saudi Arabia: 47 
+     -   Jordan: 48 
+     -   Egypt: 49 
+     -   Belize: 50 
+     -   Chile: 51 
+     -   Colombia: 52 
+     -   Costa Rica: 53 
+     -   El Salvador: 54 
+     -   Guatemala: 55 
+     -   Guyana: 56 
+     -   Honduras: 57 
+     -   Mexico: 58 
+     -   Nicaragua: 59 
+     -   Venezuela: 60 
+     -   Morocco: 61 
+     -   Algeria: 62 
+     -   Tunisia: 63 
+     -   Libya: 64 
+     -   Bahamas: 65 
+     -   Barbados: 66 
+     -   Bermuda: 67 
+     -   Dominica: 68 
+     -   Grenada: 69 
+     -   Haiti: 70 
+     -   Jamaica: 71 
+     -   Trinidad: 72 
+     -   Senegal: 73 
+     -   Ivory Coast: 74 
+     -   China: 75 
+     -   Hong Kong: 76 
+     -   Japan: 77 
+     -   Korea: 78 
+     -   Philippines: 79 
+     -   Taiwan: 80 
+     -   Vietnam: 81 
+     -   Bangladesh: 85 
+     -   India: 86 
+     -   Pakistan: 87 
+     -   Sri Lanka: 88 
+     -   Iran: 90 
+     -   Iraq: 91 
+     -   Israel: 92 
+     -   Lebanon: 93 
+     -   Ethiopia: 95 
+     -   Nigeria: 96 
+     -   Somalia: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+217. In what year did you come to live in Canada?
+     -  D.K.: 9998 
+     -   Refused: 9999 
+
+218. To what ethnic or cultural group do you belong?
+     -  Other: 0 
+     -   Canadian: 1 
+     -   Australian: 2 
+     -   Austrian: 3 
+     -   Bahamian: 4 
+     -   Bangladeshi: 5 
+     -   Black/African: 6 
+     -   British: 7 
+     -   Chinese: 8 
+     -   Croatian: 9 
+     -   Czech: 10 
+     -   Danish: 11 
+     -   Dutch: 12 
+     -   English: 13 
+     -   Salvadoran: 14 
+     -   Ethiopian: 15 
+     -   French: 16 
+     -   Finnish: 17 
+     -   German: 18 
+     -   Greek: 19 
+     -   Guyanese: 20 
+     -   Haitian: 21 
+     -   Holland: 22 
+     -   Hungarian: 23 
+     -   Irish: 24 
+     -   Italian: 25 
+     -   Indian: 26 
+     -   Israeli: 27 
+     -   Jamaican: 28 
+     -   Japanese: 29 
+     -   Jewish: 30 
+     -   Korean: 31 
+     -   Lebanese: 32 
+     -   Macedonian: 33 
+     -   New Zealander: 34 
+     -   Netherlands: 35 
+     -   Nigerian: 36 
+     -   Norwegian: 37 
+     -   Pakistani: 38 
+     -   Filipino: 39 
+     -   Polish: 40 
+     -   Portuguese: 41 
+     -   Russian: 42 
+     -   Scottish: 43 
+     -   Serbian: 44 
+     -   Sikh: 45 
+     -   Somalian: 46 
+     -   Slovakian: 47 
+     -   Spanish: 48 
+     -   Sri Lankan: 49 
+     -   Swedish: 50 
+     -   Tamil: 51 
+     -   Trinidadian: 52 
+     -   Ukrainian: 53 
+     -   Vietnamese: 54 
+     -   Yugoslavian: 55 
+     -   Welsh: 56 
+     -   Inuit, Metis, Aboriginal, Native: 95 
+     -   Quebecois: 96 
+     -   don't know: 98 
+     -   refused: 99 
+
+219. In addition to being Canadian, to what ethnic or cultural group did you, or your ancestors belong on first coming to this continent?
+     -  Other: 0 
+     -   Canadian: 1 
+     -   Australian: 2 
+     -   Austrian: 3 
+     -   Bahamian: 4 
+     -   Bangladeshi: 5 
+     -   Black/African: 6 
+     -   British: 7 
+     -   Chinese: 8 
+     -   Croatian: 9 
+     -   Czech: 10 
+     -   Danish: 11 
+     -   Dutch: 12 
+     -   English: 13 
+     -   Salvadoran: 14 
+     -   Ethiopian: 15 
+     -   French: 16 
+     -   Finnish: 17 
+     -   German: 18 
+     -   Greek: 19 
+     -   Guyanese: 20 
+     -   Haitian: 21 
+     -   Holland: 22 
+     -   Hungarian: 23 
+     -   Irish: 24 
+     -   Italian: 25 
+     -   Indian: 26 
+     -   Israeli: 27 
+     -   Jamaican: 28 
+     -   Japanese: 29 
+     -   Jewish: 30 
+     -   Korean: 31 
+     -   Lebanese: 32 
+     -   Macedonian: 33 
+     -   New Zealander: 34 
+     -   Netherlands: 35 
+     -   Nigerian: 36 
+     -   Norwegian: 37 
+     -   Pakistani: 38 
+     -   Filipino: 39 
+     -   Polish: 40 
+     -   Portuguese: 41 
+     -   Russian: 42 
+     -   Scottish: 43 
+     -   Serbian: 44 
+     -   Sikh: 45 
+     -   Somalian: 46 
+     -   Slovakian: 47 
+     -   Spanish: 48 
+     -   Sri Lankan: 49 
+     -   Swedish: 50 
+     -   Tamil: 51 
+     -   Trinidadian: 52 
+     -   Ukrainian: 53 
+     -   Vietnamese: 54 
+     -   Yugoslavian: 55 
+     -   Welsh: 56 
+     -   Inuit, Metis, Aboriginal, Native: 95 
+     -   Quebecois: 96 
+     -   No other mentions, just Cdn: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+220. To what ethnic or cultural group do you belong? [Second mention]
+     -  Other: 0 
+     -   Canadian: 1 
+     -   Australian: 2 
+     -   Austrian: 3 
+     -   Bahamian: 4 
+     -   Bangladeshi: 5 
+     -   Black/African: 6 
+     -   British: 7 
+     -   Chinese: 8 
+     -   Croatian: 9 
+     -   Czech: 10 
+     -   Danish: 11 
+     -   Dutch: 12 
+     -   English: 13 
+     -   Salvadoran: 14 
+     -   Ethiopian: 15 
+     -   French: 16 
+     -   Finnish: 17 
+     -   German: 18 
+     -   Greek: 19 
+     -   Guyanese: 20 
+     -   Haitian: 21 
+     -   Holland: 22 
+     -   Hungarian: 23 
+     -   Irish: 24 
+     -   Italian: 25 
+     -   Indian: 26 
+     -   Israeli: 27 
+     -   Jamaican: 28 
+     -   Japanese: 29 
+     -   Jewish: 30 
+     -   Korean: 31 
+     -   Lebanese: 32 
+     -   Macedonian: 33 
+     -   New Zealander: 34 
+     -   Netherlands: 35 
+     -   Nigerian: 36 
+     -   Norwegian: 37 
+     -   Pakistani: 38 
+     -   Filipino: 39 
+     -   Polish: 40 
+     -   Portuguese: 41 
+     -   Russian: 42 
+     -   Scottish: 43 
+     -   Serbian: 44 
+     -   Sikh: 45 
+     -   Somalian: 46 
+     -   Slovakian: 47 
+     -   Spanish: 48 
+     -   Sri Lankan: 49 
+     -   Swedish: 50 
+     -   Tamil: 51 
+     -   Trinidadian: 52 
+     -   Ukrainian: 53 
+     -   Vietnamese: 54 
+     -   Yugoslavian: 55 
+     -   Welsh: 56 
+     -   Inuit, Metis, Aboriginal, Native: 95 
+     -   Quebecois: 96 
+     -   No SECOND mention: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+221. To what ethnic or cultural group do you belong? [Third mention]
+     -  Other: 0 
+     -   Canadian: 1 
+     -   Australian: 2 
+     -   Austrian: 3 
+     -   Bahamian: 4 
+     -   Bangladeshi: 5 
+     -   Black/African: 6 
+     -   British: 7 
+     -   Chinese: 8 
+     -   Croatian: 9 
+     -   Czech: 10 
+     -   Danish: 11 
+     -   Dutch: 12 
+     -   English: 13 
+     -   Salvadoran: 14 
+     -   Ethiopian: 15 
+     -   French: 16 
+     -   Finnish: 17 
+     -   German: 18 
+     -   Greek: 19 
+     -   Guyanese: 20 
+     -   Haitian: 21 
+     -   Holland: 22 
+     -   Hungarian: 23 
+     -   Irish: 24 
+     -   Italian: 25 
+     -   Indian: 26 
+     -   Israeli: 27 
+     -   Jamaican: 28 
+     -   Japanese: 29 
+     -   Jewish: 30 
+     -   Korean: 31 
+     -   Lebanese: 32 
+     -   Macedonian: 33 
+     -   New Zealander: 34 
+     -   Netherlands: 35 
+     -   Nigerian: 36 
+     -   Norwegian: 37 
+     -   Pakistani: 38 
+     -   Filipino: 39 
+     -   Polish: 40 
+     -   Portuguese: 41 
+     -   Russian: 42 
+     -   Scottish: 43 
+     -   Serbian: 44 
+     -   Sikh: 45 
+     -   Somalian: 46 
+     -   Slovakian: 47 
+     -   Spanish: 48 
+     -   Sri Lankan: 49 
+     -   Swedish: 50 
+     -   Tamil: 51 
+     -   Trinidadian: 52 
+     -   Ukrainian: 53 
+     -   Vietnamese: 54 
+     -   Yugoslavian: 55 
+     -   Welsh: 56 
+     -   Inuit, Metis, Aboriginal, Native: 95 
+     -   Quebecois: 96 
+     -   No THIRD mention: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+222. To what ethnic or cultural group do you belong? [Fourth mention]
+     -  Other: 0 
+     -   Canadian: 1 
+     -   Australian: 2 
+     -   Austrian: 3 
+     -   Bahamian: 4 
+     -   Bangladeshi: 5 
+     -   Black/African: 6 
+     -   British: 7 
+     -   Chinese: 8 
+     -   Croatian: 9 
+     -   Czech: 10 
+     -   Danish: 11 
+     -   Dutch: 12 
+     -   English: 13 
+     -   Salvadoran: 14 
+     -   Ethiopian: 15 
+     -   French: 16 
+     -   Finnish: 17 
+     -   German: 18 
+     -   Greek: 19 
+     -   Guyanese: 20 
+     -   Haitian: 21 
+     -   Holland: 22 
+     -   Hungarian: 23 
+     -   Irish: 24 
+     -   Italian: 25 
+     -   Indian: 26 
+     -   Israeli: 27 
+     -   Jamaican: 28 
+     -   Japanese: 29 
+     -   Jewish: 30 
+     -   Korean: 31 
+     -   Lebanese: 32 
+     -   Macedonian: 33 
+     -   New Zealander: 34 
+     -   Netherlands: 35 
+     -   Nigerian: 36 
+     -   Norwegian: 37 
+     -   Pakistani: 38 
+     -   Filipino: 39 
+     -   Polish: 40 
+     -   Portuguese: 41 
+     -   Russian: 42 
+     -   Scottish: 43 
+     -   Serbian: 44 
+     -   Sikh: 45 
+     -   Somalian: 46 
+     -   Slovakian: 47 
+     -   Spanish: 48 
+     -   Sri Lankan: 49 
+     -   Swedish: 50 
+     -   Tamil: 51 
+     -   Trinidadian: 52 
+     -   Ukrainian: 53 
+     -   Vietnamese: 54 
+     -   Yugoslavian: 55 
+     -   Welsh: 56 
+     -   Inuit, Metis, Aboriginal, Native: 95 
+     -   Quebecois: 96 
+     -   No FOURTH mention: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+223. What language do you usually speak at home?
+     -  Other: 0 
+     -   English: 1 
+     -   French: 5 
+     -   Arabic: 10 
+     -   Chinese: 11 
+     -   English & French: 12 
+     -   First Nation: 13 
+     -   Other West Europe: 20 
+     -   German: 21 
+     -   Italian: 22 
+     -   Spanish/Portuguese: 23 
+     -   Dutch: 24 
+     -   Other East Europe: 25 
+     -   Polish: 26 
+     -   Ukrainian: 27 
+     -   don't know: 98 
+     -   refused: 99 
+
+224. What is the first language you learned and still understand?
+     -  Other: 0 
+     -   English: 1 
+     -   French: 5 
+     -   Arabic: 10 
+     -   Chinese: 11 
+     -   English & French: 12 
+     -   First Nation: 13 
+     -   Other West Europe: 20 
+     -   German: 21 
+     -   Italian: 22 
+     -   Spanish/Portuguese: 23 
+     -   Dutch: 24 
+     -   Other East Europe: 25 
+     -   Polish: 26 
+     -   Ukrainian: 27 
+     -   don't know: 98 
+     -   refused: 99 
+
+225. Could you please tell me your total household income, be sure to include income FROM ALL SOURCES such as savings, pensions, rent, as well as wages, TO THE NEAREST THOUSAND DOLLARS, for 1999?
+     -  don't know: 998 
+     -   refused: 999 
+
+226. We don't need the exact amount; could tell me which of these broad categories it falls into...
+     -  Less than $20,000: 1 
+     -   $20,000-$29,999: 2 
+     -   $30,000-$39,999: 3 
+     -   $40,000-$49,999: 4 
+     -   $50,000-$59,999: 5 
+     -   $60,000-$69,999: 6 
+     -   $70,000-$79,999: 7 
+     -   $80,000-$89,999: 8 
+     -   $90,000-$99,999: 9 
+     -   More than $100,000: 10 
+     -   don't know: 998 
+     -   refused: 999 
+
+227. How many children under 18 years live in your home?
+     -  None: 0 
+     -   don't know: 998 
+     -   refused: 999 
+
+228. ISR
+     -  Rest of Canada (ROC): 1 
+
+229. Jolicoeur
+     -  Quebec: 1 
+
+230. Question Wording/Random Delivery <D8A/D8B>
+     -  NA 
+
+231. Question Wording/Random Delivery <E1A--E6A/E1B--E6B>
+     -  NA 
+
+232. Question Wording/Random Delivery <G4A/G4B>
+     -  NA 
+
+233. Question Wording/Random Delivery <G7A--G7D>
+     -  NA 
+
+234. Question Wording/Random Delivery <E7A/E7B>
+     -  NA 
+
+235. Question Order/Random Delivery <D2--D4>
+     -  NA 
+
+236. Question Order/Random Delivery <K14--K18>
+     -  NA 
+
+237. Question Order/Random Delivery <D1A--D1G>
+     -  NA 
+
+238. Total Number of Call Attempts
+     -  NA 
+
+239. Number of Refusals Before Completion
+     -  NA 
+
+240. Total Times Respondent Contacted
+     -  NA 
+
+241. Number of Times Telephone Answered
+     -  NA 
+
+242. Length of Interview <Minutes>
+     -  NA 
+
+243. Date of Interview <MMDDYYYY>
+     -  NA 
+
+244. Month of Interview <MM>
+     -  January: 1 
+     -   February: 2 
+     -   October: 10 
+     -   November: 11 
+     -   December: 12 
+
+245. Day of Interview <DD>
+     -  NA 
+
+246. Year of Interview <YYYY>
+     -  NA 
+
+247. Interviewer's Number (# of Interviews)
+     -  Supervisor: 999 
+
+248. Language of Interview
+     -  English: 1 
+     -   French: 2 
+
+249. What was the most important issue to YOU PERSONALLY in this election?
+     -  Create jobs / reduce unemployment: 10 
+     -   Jobs for youth: 11 
+     -   Want/need job security: 12 
+     -   Lack of jobs in the East: 13 
+     -   Need job training, re-training: 14 
+     -   Concentrate: jobs/ unemployment: 15 
+     -   Education/health education: 16 
+     -   Local issues: 17 
+     -   General mention: debt, deficit,etc: 20 
+     -   Continue reducing debt: 21 
+     -   Debt - eliminate: 22 
+     -   Continue reducing deficit: 23 
+     -   Deficit - eliminate: 24 
+     -   Continue fiscal policy/restraints: 25 
+     -   Balance the budget: 26 
+     -   Create jobs/ reduce deficit/budget: 27 
+     -   General mention: economy / reform: 30 
+     -   Fight inflation: 31 
+     -   Keep interest rates down: 32 
+     -   Improve economy/bring prosperity: 33 
+     -   Strengthen/stimulate the economy: 34 
+     -   Economy/budget and jobs: 35 
+     -   Need to stabilize the economy: 36 
+     -   Lie/screw us around/spend our $: 40 
+     -   Nothing/not really sure/not much: 41 
+     -   Won by default/no choice: 42 
+     -   Cater to Quebec: 43 
+     -   Cater to Ontario: 44 
+     -   Elected by Ont/Quebec: 45 
+     -   To try to keep their promises: 46 
+     -   Because early election called: 47 
+     -   To beat other parties: 48 
+     -   To change/get new ideas: 49 
+     -   General mention (taxes): 50 
+     -   Abolish GST taxes: 51 
+     -   Cut GST taxes: 52 
+     -   Keep taxes down: 53 
+     -   Jobs and taxes both mentions: 54 
+     -   Fairer taxation: 55 
+     -   Other policy issues: 56 
+     -   General mention of health care: 57 
+     -   Continue the cutbacks: 58 
+     -   Maintain health care/ more $: 59 
+     -   Protect social programs & services: 60 
+     -   Protect old age pensions/security: 61 
+     -   Protect child care/family benefits: 62 
+     -   Jobs and social programmes (both): 63 
+     -   Jobs and health care (both): 64 
+     -   Health care and budget (both): 65 
+     -   Deficit and health care: 66 
+     -   Elderly, care of: 68 
+     -   Health care concern: 69 
+     -   To help Canadians: 70 
+     -   Crime / violence/gun control: 71 
+     -   To deal with poverty: 72 
+     -   Abortion: 73 
+     -   Rights: aboriginal/other groups: 74 
+     -   Environment: 75 
+     -   Moral decline: 76 
+     -   General mention Quebec: sovereignty: 80 
+     -   General mention national unity: 81 
+     -   Maintain national unity: 82 
+     -   To stop Quebec independence: 83 
+     -   Unity and economy: 84 
+     -   Unity and jobs: 85 
+     -   Unity and deficit: 86 
+     -   Unity and health care: 87 
+     -   Unity and social programmes: 88 
+     -   General mention - to carry on: 90 
+     -   Honesty, fair & accountable govt: 91 
+     -   To form a majority government: 92 
+     -   To maintain the status quo: 93 
+     -   To continue their mandate: 94 
+     -   To beat the Liberals/Chretien: 95 
+     -   To govern the country: 96 
+     -   To represent the people: 97 
+     -   don't know, not codeable: 98 
+     -   refused: 99 
+
+250. How much attention did you pay to news about the Federal election on TV:
+     -  No attention at all: 0 
+     -   A great deal: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+251. Using the same scale,  how much attention did you pay to RADIO news about the Federal election?
+     -  No attention at all: 0 
+     -   A great deal: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+252. Using the same scale, how much attention did you pay to news about the Federal election in the NEWSPAPERS?
+     -  No attention at all: 0 
+     -   A great deal: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+253. Using the same scale, how interested were you in the Federal election?
+     -  No interest at all: 0 
+     -   Extremely interested: 10 
+     -   don't know: 98 
+     -   refused: 99 
+
+254. During the campaign, do you think the media did a very good job of informing Canadians about the parties, quite a good job, not a very good job, or not a good job at all?
+     -  A very good job: 1 
+     -   Quite a good job: 3 
+     -   Not a very good job: 5 
+     -   Not a good job at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+255. Did you use the internet to get any information about the Federal election?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+256. Did you visit a political party's web site during the campaign?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+257. Did you send an e-mail to a candidate or a party during the campaign?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+258. Were you contacted by a political party during the campaign?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+259. Was that in person, by phone, by mail, or by email?
+     -  More than one way: 0 
+     -   In person: 1 
+     -   By phone: 3 
+     -   By mail: 5 
+     -   By email: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+260. Was that in person, by phone, by mail, or by email? [First mention]
+     -  More than one way: 0 
+     -   In person: 1 
+     -   By phone: 3 
+     -   By mail: 5 
+     -   By email: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+261. Was that in person, by phone, by mail, or by email? [Second mention]
+     -  More than one way: 0 
+     -   In person: 1 
+     -   By phone: 3 
+     -   By mail: 5 
+     -   By email: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+262. Was that in person, by phone, by mail, or by email? [Third mention]
+     -  More than one way: 0 
+     -   In person: 1 
+     -   By phone: 3 
+     -   By mail: 5 
+     -   By email: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+263. Was that in person, by phone, by mail, or by email? [Fourth mention]
+     -  More than one way: 0 
+     -   In person: 1 
+     -   By phone: 3 
+     -   By mail: 5 
+     -   By email: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+264. Did you get a campaign flyer from ANY of the parties?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+265. During the CAMPAIGN, did you help a party or a candidate, for example, by going to a rally, by working for a candidate, by putting a sticker on your car, or by putting up a sign?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+266. Did you discuss the election with other people often, occasionally, or not at all?
+     -  Often: 1 
+     -   Occasionally: 3 
+     -   Not at all: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+267. Do you happen to recall the name of the leader of the Federal NDP (the New Democratic Party)?
+     -  McDonough / Alexa McDonough: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+268. And the leader of the Federal Conservative Party?
+     -  Clark / Joe Clark: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+269. The leader of the Alliance Party?
+     -  Day / Stockwell Day: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+270. The leader of the Bloc Quebecois?
+     -  Duceppe / Gilles Duceppe: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+271. The leader of the Federal Liberal Party?
+     -  Chretien / Jean Chretien: 1 
+     -   Any other answer: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+272. Did YOU vote in the election?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+273. What was the main reason you did not vote?
+     -  Response given: 1 
+     -   don't know: 98 
+     -   refused: 99 
+
+274. If it had been possible to vote by telephone or internet, without having to go to the polling station, would you have voted or would this not have made any difference?
+     -  Yes, would have voted: 1 
+     -   No, would not make any difference: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+275. Which party did you vote for: the Liberal Party, the Bloc Quebecois, the Alliance Party, the Conservative Party, the N.D.P., or another party?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance Party: 4 
+     -   Bloc Quebecois: 5 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+276. Which party did you vote for: the Liberal Party, the Alliance Party, the Conservative Party, the NDP, or another party?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance Party: 4 
+     -   Bloc Quebecois: 5 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+277. INTERVIEWER: Enter other party here.
+     -  NA 
+
+278. Which party did you vote for: another party.
+     -  NA 
+
+279. Was that the party you liked the most?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+280. Which party did you like the most?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance Party: 4 
+     -   Bloc Quebecois: 5 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+281. And which party was your second choice?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance Party: 4 
+     -   Bloc Quebecois: 5 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+282. When did you decide that you were going to vote for...?
+     -  Before the campaign began: 1 
+     -   Before the debates: 2 
+     -   During or just after the debates: 3 
+     -   In the last two weeks of the campaign: 4 
+     -   Election day: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+283. On the whole are you VERY SATISFIED, FAIRLY SATISFIED, NOT VERY SATISFIED, or NOT SATISFIED AT ALL with the way democracy works in Canada?
+     -  Very satisfied: 1 
+     -   Fairly satisfied: 3 
+     -   Not very satisfied: 5 
+     -   Not satisfied at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+284. And now the outcome of the election. What were YOU hoping for: A liberal majority, a liberal minority, or a liberal defeat?
+     -  Other: 0 
+     -   Liberal majority: 1 
+     -   Liberal minority: 3 
+     -   Liberal defeat: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+285. First Party (Federal) - Random Delivery
+     -  NA 
+
+286. Second Party (Federal) - Random Delivery
+     -  NA 
+
+287. Third Party (Federal) - Random Delivery
+     -  NA 
+
+288. Fourth Party (Federal) - Random Delivery
+     -  NA 
+
+289. Fifth Party (Federal) - Random Delivery
+     -  NA 
+
+290. How do you feel about the FEDERAL CONSERVATIVE PARTY?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know the party: 997 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+291. How do you feel about the FEDERAL LIBERAL PARTY?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know the party: 997 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+292. How do you feel about the FEDERAL N.D.P?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know the party: 997 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+293. How do you feel about the ALLIANCE PARTY?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know the party: 997 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+294. How do you feel about the BLOC QUEBECOIS?
+     -  Really DISLIKE the party: 0 
+     -   Really LIKE the party: 100 
+     -   Don't know about any of the parties: 996 
+     -   Don't know the party: 997 
+     -   Don't know how to rate them: 998 
+     -   refused: 999 
+
+295. First, how do you feel about environmentalists?
+     -  Really DISLIKE the group: 0 
+     -   Really LIKE the group: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+296. On the same scale, how do you feel about Aboriginal peoples?
+     -  Really DISLIKE the group: 0 
+     -   Really LIKE the group: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+297. How do you feel about the police?
+     -  Really DISLIKE the group: 0 
+     -   Really LIKE the group: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+298. How do you feel about political parties?
+     -  Really DISLIKE the group: 0 
+     -   Really LIKE the group: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+299. How do you feel about the UNITED STATES?
+     -  Really DISLIKE it: 0 
+     -   Really LIKE it: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+300. How do you feel about CANADA?
+     -  Really DISLIKE it: 0 
+     -   Really LIKE it: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+301. How do you feel about your province?
+     -  Really DISLIKE it: 0 
+     -   Really LIKE it: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+302. How do you feel about QUEBEC?
+     -  Really DISLIKE it: 0 
+     -   Really LIKE it: 100 
+     -   don't know: 998 
+     -   refused: 999 
+
+303. Are you very favourable, somewhat favourable, somewhat opposed, or very opposed to Quebec sovereignty, that is Quebec is NO LONGER A PART OF CANADA?
+     -  Very favourable: 1 
+     -   Somewhat favourable: 3 
+     -   Somewhat opposed: 5 
+     -   Very opposed: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+304. In your opinion, is the French language threatened in Quebec?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+305. If Quebec separates from Canada, do you think that the situation of French language in Quebec will get better, get worse, or stay about the same as now?
+     -  Get better: 1 
+     -   Get worse: 3 
+     -   Stay about the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+306. If Quebec separates from Canada, do you think your standard of living will get better, get worse, or stay about the same as now?
+     -  Get better: 1 
+     -   Get worse: 3 
+     -   Stay about the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+307.  How likely is it that Quebec will separate from Canada: VERY LIKELY, SOMEWHAT LIKELY,  SOMEWHAT UNLIKELY, VERY UNLIKELY?
+     -  Very likely: 1 
+     -   Somewhat likely: 3 
+     -   Somewhat unlikely: 5 
+     -   Very unlikely: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+308. And now government spending. Should the Federal government spend more, less,  or about the same as now on the following areas? ... Defence?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+309. Should the Federal government spend more, less, or about the same as now? ... Welfare?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+310. Should the Federal government spend more, less, or about the same as now? ... Pensions and Old Age Security?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+311. Should the Federal government spend more, less, or about the same as now? ... Health Care?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+312. Should the Federal government spend more, less, or about the same as now? ... Unemployment Insurance?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+313. Should the Federal government spend more, less, or about the same as now? ... Education?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+314. Should the Federal government spend more, less, or about the same as now? ... Aid to developing countries?
+     -  Spend more: 1 
+     -   Spend less: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+315. How much power do you think UNIONS should have: MUCH MORE, SOMEWHAT MORE, ABOUT THE SAME AS NOW, SOMEWHAT LESS, or MUCH LESS?
+     -  Much more: 1 
+     -   Somewhat more: 2 
+     -   About the same as now: 3 
+     -   Somewhat less: 4 
+     -   Much less: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+316. And how much power do you think BUSINESS should have: MUCH MORE, SOMEWHAT MORE, ABOUT THE SAME as now, SOMEWHAT LESS, or MUCH LESS?
+     -  Much more: 1 
+     -   Somewhat more: 2 
+     -   About the same as now: 3 
+     -   Somewhat less: 4 
+     -   Much less: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+317. Do you think Canada's ties with the United States should be MUCH CLOSER, SOMEWHAT CLOSER, ABOUT THE SAME AS NOW, MORE DISTANT, or MUCH MORE DISTANT?
+     -  Much closer: 1 
+     -   Somewhat closer: 2 
+     -   About the same as now: 3 
+     -   More distant: 4 
+     -   Much more distant: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+318. Do you think the Alliance Party favours or opposes 2-tier health care?
+     -  Favours: 1 
+     -   Opposes: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+319. How clear is the Alliance position on this: very clear, fairly clear, not very clear, or not clear at all?
+     -  Very clear: 1 
+     -   Fairly clear: 3 
+     -   Not very clear: 5 
+     -   Not clear at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+320. Would you favour or oppose having some private hospitals in Canada?
+     -  Favour: 1 
+     -   Oppose: 5 
+     -   It depends: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+321. And would you favour or oppose letting doctors charge patients a 10 dollar fee for each office visit?
+     -  Favour: 1 
+     -   Oppose: 5 
+     -   R volunteers: "It depends": 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+322. And would you favour or oppose letting doctors charge patients a 20 dollar fee for each office visit?
+     -  Favour: 1 
+     -   Oppose: 5 
+     -   R volunteers: "It depends": 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+323. When it comes to the division of power between the federal and provincial governments, do you think the PROVINCIAL governments should have more power, than now, less power, or about the same as now?
+     -  More power than now: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+324. Now where do you think the parties stand on this?  First, the federal LIBERALS, do they want the PROVINCIAL governments to have more power than now, less power, or about the same as now?
+     -  More power than now: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+325. Does the BLOC QUEBECOIS want the PROVINCIAL governments to have more power than now, less power, or about the same as now?
+     -  More power than now: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+326. Does the ALLIANCE want the PROVINCIAL governments to have more power than now, less power, or about the same as now?
+     -  More power than now: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+327. Do the federal CONSERVATIVES want the PROVINCIAL governments to have more power than now, less power, or about the same as now?
+     -  More power than now: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+328. Does the federal NDP want the PROVINCIAL governments to have more power than now, less power, or about the same as now?
+     -  More power than now: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+329. When it comes to the division of power between the federal and provincial governments, do you think the FEDERAL government should have more power, less power, or about the same as now?
+     -  More power: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+330. Do the Liberals want the FEDERAL government to have more power, less power, or about the same as now?
+     -  More power: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+331. Does the BLOC QUEBECOIS want the FEDERAL government to have more power, less power, or about the same as now?
+     -  More power: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+332. Does the ALLIANCE want the FEDERAL government to have more power, less power, or about the same as now?
+     -  More power: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+333. Do the CONSERVATIVES want the FEDERAL government to have more power, less power, or about the same as now?
+     -  More power: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+334. Does the NDP want the FEDERAL government to have more power, less power, or about the same as now?
+     -  More power: 1 
+     -   Less power: 3 
+     -   About the same as now: 5 
+     -   I do not know where any of the parties stand on this: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+335. IN GENERAL, which government looks after YOUR interests better: the FEDERAL government or the PROVINCIAL government?
+     -  Federal government: 1 
+     -   Provincial government: 3 
+     -   There is not much difference: 5 
+     -   R Volunteers: "Neither": 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+336. IN GENERAL, which government looks after YOUR interests better:  the FEDERAL government, the PROVINCIAL government, or is there not much difference?
+     -  Federal government: 1 
+     -   Provincial government: 3 
+     -   There is not much difference: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+337. Over the last FIVE years, do you think that the quality of education in your province has got better, got worse, or stayed about the same?
+     -  Got better: 1 
+     -   Got worse: 3 
+     -   Stayed about the same: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+338. Now your views about political parties IN GENERAL. How good a job do political parties IN GENERAL do of presenting clear choices on the issues: a very good job, quite a good job, not a very good job, or not a good job at all?
+     -  Very good job: 1 
+     -   Quite a good job: 3 
+     -   Not a very good job: 5 
+     -   Not a good job at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+339. Do political parties IN GENERAL do a very good job, quite a good job, not a very good job, or not a good job at all at finding solutions to important problems?
+     -  Very good job: 1 
+     -   Quite a good job: 3 
+     -   Not a very good job: 5 
+     -   Not a good job at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+340. Do political parties IN GENERAL do a very good job, quite a good job, not a very good job, or not a good job at expressing the concerns of ordinary people?
+     -  Very good job: 1 
+     -   Quite a good job: 3 
+     -   Not a very good job: 5 
+     -   Not a good job at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+341. And what about the party you voted for?  Does they do a very good job of expressing the concerns of ordinary people, quite a good job, not a very good job, or not a good job at all?
+     -  Very good job: 1 
+     -   Quite a good job: 3 
+     -   Not a very good job: 5 
+     -   Not a good job at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+342. Name of Provincial Premier
+     -  NA 
+
+343. And now, how do you feel about your Provincial PREMIER?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know who he is: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+344. First Leader - Random Delivery
+     -  NA 
+
+345. Second Leader - Random Delivery
+     -  NA 
+
+346. Third Leader - Random Delivery
+     -  NA 
+
+347. Fourth Leader - Random Delivery
+     -  NA 
+
+348. Fifth Leader - Random Delivery
+     -  NA 
+
+349. How do you feel about JOE CLARK?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he his: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+350. How do you feel about JEAN CHRETIEN?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he his: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+351. How do you feel about ALEXA MCDONOUGH?
+     -  Really DISLIKE her: 0 
+     -   Really LIKE her: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who she is: 997 
+     -   Don't know how to rate her: 998 
+     -   refused: 999 
+
+352. How do you feel about STOCKWELL DAY?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he his: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+353. How do you feel about GILLES DUCEPPE?
+     -  Really DISLIKE him: 0 
+     -   Really LIKE him: 100 
+     -   Don't know any of the leaders: 996 
+     -   Don't know who he his: 997 
+     -   Don't know how to rate him: 998 
+     -   refused: 999 
+
+354. Which party leader would YOU describe as arrogant?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+355. Which leader would YOU describe as trustworthy?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+356. Which leader would YOU describe as having new ideas?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+357. Which leader would YOU describe as compassionate?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+358. Which leader would YOU describe as dishonest?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+359. Which leader would YOU describe as intelligent?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+360. Which leader would YOU describe as extreme?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+361. Which leader would YOU describe as a weak leader?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+362. Did the leaders' religious beliefs influence your vote?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+363. Now the local candidates in your riding. Was there a candidate in your riding you particularly liked?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+364. Which party was the candidate you liked from?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc Quebecois: 5 
+     -   don't know: 98 
+     -   refused: 99 
+
+365. If a law conflicts with the Charter of Rights, who should have the final say:
+     -  The courts: 1 
+     -   The government: 5 
+     -   R volunteers: Both/Neither: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+366. Under our present system, a party can win a majority of seats without winning a majority of votes.
+     -  Acceptable: 1 
+     -   Unacceptable: 5 
+     -   R volunteers: Both/Neither: 7 
+     -   don't know/no opinion: 8 
+     -   refused: 9 
+
+367. Do you think that referendums on IMPORTANT issues should be held regularly, occasionally, rarely, or never?
+     -  Regularly: 1 
+     -   Occasionally: 3 
+     -   Rarely: 5 
+     -   Never: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+368. Do you think that referendums on CONTROVERSIAL issues should be held regularly, occasionally, rarely, or never?
+     -  Regularly: 1 
+     -   Occasionally: 3 
+     -   Rarely: 5 
+     -   Never: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+369. Should we have fixed dates for elections, or should the government decide when elections are held?
+     -  Fixed dates: 1 
+     -   Government should decide: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+370. As you may know, there are many more men than women in the House of Commons. In your view, is this a very serious problem, quite a serious problem, not a very serious problem, or not a problem at all?
+     -  Very serious problem: 1 
+     -   Quite a serious problem: 3 
+     -   Not a very serious problem: 5 
+     -   Not a problem at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+371. Would you favour or oppose requiring the parties to have an equal number of male and female candidates?
+     -  Favour: 1 
+     -   Oppose: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+372. As you may know, there are very few members of RACIAL MINORITIES in the House of Commons.
+     -  Very serious problem: 1 
+     -   Quite a serious problem: 3 
+     -   Not a very serious problem: 5 
+     -   Not a problem at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+373. Would you favour or oppose requiring the parties to have more members of racial minorities as candidates?
+     -  Favour: 1 
+     -   Oppose: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+374. And now a question on abortion: do you think it should be very easy for women to get an abortion, quite easy, quite difficult, or very difficult?
+     -  R volunteers: "not allowed at all, etc.": 0 
+     -   Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+375. Now where do you think the parties stand on this? First, the LIBERALS.
+     -  I have not idea where the parties stand on this: 0 
+     -   Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+376. Does the Bloc Quebecois want it to be very easy, quite easy, quite difficult, or very difficult?
+     -  Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+377. Does the Alliance want it to be very easy, quite easy, quite difficult, or very difficult?
+     -  Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+378. Do the Conservatives want it to be very easy, quite easy, quite difficult, or very difficult?
+     -  Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+379. Does the NDP want it to be very easy, quite easy, quite difficult, or very difficult?
+     -  Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+380. Do you think it would be a good thing or a bad thing to have a referendum on abortion?
+     -  Good thing: 1 
+     -   Bad thing: 5 
+     -   R volunteers: "It depends": 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+381. Are you very sympathetic towards feminism, quite sympathetic, not very sympathetic, or not sympathetic at all?
+     -  R volunteers: "It depends": 0 
+     -   Very sympathetic: 1 
+     -   Quite sympathetic: 3 
+     -   Not very sympathetic: 5 
+     -   Not sympathetic at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+382. People who don't get ahead should blame themselves, not the system.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+383. When businesses make a lot of money, everyone benefits, including the poor.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+384. Overall, free trade with the U.S. has been good for the Canadian economy.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+385. Quebec has the right to separate no matter what the rest of Canada says.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+386. The federal government should cut funding to provinces that allow user fees for medical services.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+387. Which statement COMES CLOSEST to your own view: One, most PEOPLE can be trusted, or Two, most PEOPLE take advantage of others whenever they can?
+     -  People can be trusted: 1 
+     -   People take advantage of others: 2 
+     -   R volunteers: Both/Neither: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+388. Do you happen to remember which party promised a single tax rate for people earning less than one hundred thousand dollars a year?
+     -  Alliance: 1 
+     -   Alliance and any other mention: 3 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+389. Which party proposed a national prescription drug plan?
+     -  NDP: 1 
+     -   NDP and another party: 3 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+390. Which party promised a law to fight criminal biker gangs?
+     -  Bloc Quebecois: 1 
+     -   Alliance: 2 
+     -   Bloc Quebecois and the Alliance: 3 
+     -   Bloc Quebecois and a party other than Alliance: 4 
+     -   Alliance and a party other than the Bloc Quebecois: 5 
+     -   All other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+391. Do you happen to recall which party proposed a law to pay back the debt in 25 years?
+     -  Conservative party: 1 
+     -   Conservative party and another party: 3 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   no answer: 9 
+
+392. Do you happen to recall which party promised to use HALF of the surplus to cut taxes and pay down the debt and HALF to spend on health care and social programmes?
+     -  Liberal party: 1 
+     -   Liberal party and another party: 3 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+393. How many hours a day do you usually watch TV?
+     -  None/less than half an hour: 0 
+     -   Twenty or more: 20 
+     -   don't know: 98 
+     -   refused: 99 
+
+394. Do you watch Canadian stations all of the time, most of the time, some of the time or none of the time?
+     -  All of the time: 1 
+     -   Most of the time: 3 
+     -   Some of the time: 5 
+     -   None of the time: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+395. And how many hours a day do you listen to the radio?
+     -  None/less than half an hour: 0 
+     -   Twenty or more: 20 
+     -   don't know: 98 
+     -   refused: 99 
+
+396. And how many days a week do you read a newspaper?
+     -  None: 0 
+     -   don't know: 8 
+     -   refused: 9 
+
+397. Did you see the ENGLISH TV debate among the party leaders?
+     -  Yes (includes all or some): 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+398. In your opinion/From what you have heard, which leader did the BEST in that debate?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+399. And who did the Worst?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+400. Did you see the FRENCH TV debate?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+401. In your opinion/From what you have heard, which leader did the BEST in that debate?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+402. And who did the Worst?
+     -  Chretien: 1 
+     -   Clark: 2 
+     -   Day: 3 
+     -   Duceppe: 4 
+     -   McDonough: 5 
+     -   None: 6 
+     -   All: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+403. In FEDERAL politics, do you usually think of yourself as a Liberal, Bloc Quebecois, Alliance, Conservative, NDP, or none of these?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc Quebecois: 5 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+404. In FEDERAL politics, do you usually think of yourself as a Liberal, Alliance, Conservative, NDP, or none of these?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+405. INTERVIEWER: Enter other party here.
+     -  NA 
+
+406. In FEDERAL politics, do you usually think of yourself as: Other.
+     -  NA 
+
+407. How strongly do you feel: very strongly, fairly strongly, or not very strongly?
+     -  Very strongly: 1 
+     -   Fairly strongly: 3 
+     -   Not very strongly: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+408. Do you generally think of yourself as being a little closer to one of the FEDERAL parties than to the others?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+409. Which party is that?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc Quebecois: 5 
+     -   None: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+410. Is there any FEDERAL political party that is just too extreme?
+     -  Other/Combinations: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance: 4 
+     -   Bloc Quebecois: 5 
+     -   Bloc and Alliance: 6 
+     -   No: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+411. In PROVINCIAL POLITICS, do you usually think of yourself as a ..., another party, or none of these?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance Party: 4 
+     -   Reform: 5 
+     -   Social Credit: 6 
+     -   Parti Quebecois: 7 
+     -   L'Action Democratique: 8 
+     -   Saskatchewan Party: 9 
+     -   None of these: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+412. INTERVIEWER: Enter other party here.
+     -  NA 
+
+413. INTERVIEWER: Enter other party here.
+     -  NA 
+
+414. How strongly do you feel: very strongly, fairly strongly, or not very strongly?
+     -  Very strongly: 1 
+     -   Fairly strongly: 3 
+     -   Not very strongly: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+415. Have you ever been a member of a political party?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+416. Which one?
+     -  Response given: 1 
+     -   don't know: 98 
+     -   refused: 99 
+
+417. Have you ever been a member of an interest group that worked for change on a a particular social or political issue?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+418. Which do you think is a more effective way to work for change nowadays: joining a political party or joining an interest group?
+     -  Political party: 1 
+     -   Interest group: 3 
+     -   Neither: 5 
+     -   Both: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+419. Have you ever contacted a Member of Parliament?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+420. How satisfied were you with the response?
+     -  R volunteers: "Did not get a response": 0 
+     -   Very satisfied: 1 
+     -   Fairly satisfied: 3 
+     -   Not very satisfied: 5 
+     -   Not satisfied at all: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+421. There is no point voting for a party that will win only a few seats.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+422. All the Liberal Party cares about is staying in power.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+423. The Alliance Party only speaks for the West. [The west means Manitoba, Saskatchewan, Alberta and British Columbia]
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+424. The Conservative Party has nothing left to offer.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+425. The NDP is out of touch with the times.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+426. There is no reason to have a sovereignist party in Ottawa.
+     -  Strongly agree: 1 
+     -   Somewhat agree: 3 
+     -   Somewhat disagree: 5 
+     -   Strongly disagree: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+427. Here's a list of FOUR goals. Which goal is MOST important to you personally?
+     -  Fighting crime: 1 
+     -   Giving people more say in important gov't decisions: 2 
+     -   Maintaining economic growth: 3 
+     -   Protecting freedom of speech: 4 
+     -   don't know: 8 
+     -   refused: 9 
+
+428. And, which is the SECOND MOST important to you, personally?
+     -  Fighting crime: 1 
+     -   Giving people more say in important gov't decisions: 2 
+     -   Maintaining economic growth: 3 
+     -   Protecting freedom of speech: 4 
+     -   don't know: 8 
+     -   refused: 9 
+
+429. Do you happen to recall which party says that high taxes have produced a brain drain from Canada to the US?
+     -  Alliance: 1 
+     -   Alliance and another party: 3 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+430. Do you happen to remember which party says that tougher sentences will NOT reduce youth violence?
+     -  Bloc Quebecois: 1 
+     -   NDP: 2 
+     -   Bloc Quebecois and NDP: 3 
+     -   Bloc Quebecois and another party: 4 
+     -   NDP and another party: 5 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+431. Do you happen to recall which party says that a strong federal government is essential to preserve the Canadian health system?
+     -  Liberal: 1 
+     -   NDP: 2 
+     -   Liberal and NDP: 3 
+     -   Liberal and another party: 4 
+     -   NDP and another party: 5 
+     -   Other answers: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+432. Earlier in the survey you mentioned that you voted.  Did you vote at a polling station on election day, at an advance poll, or by mail-in ballot?
+     -  Other: 0 
+     -   At a polling station on election day: 1 
+     -   At an advance poll: 3 
+     -   By mail-in ballot: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+433. Was this very easy, quite easy, quite difficult or very difficult?
+     -  Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+434. During the campaign, did you receive a "Voter Information" card showing that YOUR NAME was on the voters' list?
+     -  Yes: 1 
+     -   No: 5 
+     -   R volunteers: "Received card, but not name": 7 
+     -   don't know: 8 
+     -   refused: 9 
+
+435. Did you try to get your name on the voters' list?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+436. Could you tell me why not?
+     -  1: 1 
+     -   98: 2 
+
+437. Was it very easy, quite easy, quite difficult or very difficult to get your name on the voters' list?
+     -  Very easy: 1 
+     -   Quite easy: 3 
+     -   Quite difficult: 5 
+     -   Very difficult: 7 
+     -   Never got on list: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+438. Do you have any children AGED 18 OR OVER?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+439. Do any of them live with you?
+     -  Yes: 1 
+     -   No: 5 
+     -   don't know: 8 
+     -   refused: 9 
+
+440. In what Province or Territory were you born?
+     -  Not born in Canada: 0 
+     -   Newfoundland: 10 
+     -   Prince Edward Island: 11 
+     -   Nova Scotia: 12 
+     -   New Brunswick: 13 
+     -   Quebec: 14 
+     -   Ontario: 15 
+     -   Manitoba: 16 
+     -   Saskatchewan: 17 
+     -   Alberta: 18 
+     -   British Columbia: 19 
+     -   Yukon: 20 
+     -   NWT: 21 
+     -   Other: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+441. For how many years have you lived in ...?
+     -  Less than one year: 0 
+     -   Ninety-six or more years: 96 
+     -   All of my life: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+442. Finally, if a PROVINCIAL election were held today, which party would you vote for?
+     -  Other: 0 
+     -   Liberal: 1 
+     -   Conservative: 2 
+     -   NDP: 3 
+     -   Alliance Party: 4 
+     -   Reform: 5 
+     -   Social Credit: 6 
+     -   Parti Quebecois: 7 
+     -   L'Action Democratique: 8 
+     -   Saskatchewan Party: 9 
+     -   Null/Void Ballot [Quebec only]: 96 
+     -   None of these: 97 
+     -   don't know: 98 
+     -   refused: 99 
+
+443. We will understand much more about the way CDNs feel about elections now that we have talked to you and others....
+     -  Yes, gives address: 1 
+     -   No, refuses address: 5 
+
+444. ISR
+     -  Rest of Canada (ROC): 1 
+
+445. Jolicoeur
+     -  Quebec: 1 
+
+446. We have gone too far in pushing equal rights in this country.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+447. We should be more tolerant of people who choose to live according to their own standards, even if they are very different from our own.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+448. If a company has to lay off some of its employees, the first workers to be laid off should be women whose husbands have jobs.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+449. The welfare state makes people less willing to look after themselves.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+450. Discrimination makes it extremely difficult for women to get jobs equal to their abilities.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+451. Protecting the environment is more important than creating jobs.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+452. Newer lifestyles are contributing to the breakdown of society.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+453. The world is always changing and we should adapt our view of moral behaviour to these changes.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+454. This country would have many fewer problems if there were more emphasis on traditional family values.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+455. It is more difficult for non-whites to be successful in Canadian society than it is for whites.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+456. If people really want to work, they can find a job.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+457. We should look after Canadians born in this country first and others second.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+458. The Bible is the actual word of God and is to be taken literally word for word.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+459. Minority groups need special rights.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+460. The best way to protect women's interests is to have more women in Parliament.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+461. The government should:
+     -  See to it that everyone has a decent standard of living: 1 
+     -   Leave people to get ahead on their own: 2 
+     -   not sure/both (with & without qualification): 8 
+
+462. The feminist movement:
+     -  Just tries to get equal treatment for women: 1 
+     -   Puts men down: 2 
+     -   not sure/both (with & without qualification): 8 
+
+463. Which is more important in a democratic society:
+     -  Letting the majority decide: 1 
+     -   Protecting the needs and rights of minorities: 2 
+     -   not sure/both (with & without qualification): 8 
+
+464. Which comes closest to your own view:
+     -  Aboriginal tried hard, could be as well off as other Cdns: 1 
+     -   Social & economic conditions make it almost impossible: 2 
+     -   not sure/both (with & without qualification): 8 
+
+465. Do you think that:
+     -  Quite a few people running the govt are a little crooked: 1 
+     -   Not very many are crooked: 2 
+     -   Hardly any of them are crooked: 3 
+     -   not sure/both (with & without qualification): 8 
+
+466. Do you think that people in the government:
+     -  Waste a lot of the money we pay in taxes: 1 
+     -   Waste some of it: 2 
+     -   Don't waste very much of it: 3 
+     -   not sure/both (with & without qualification): 8 
+
+467. The feminist movement encourages women:
+     -  To be independent and speak up for themselves: 1 
+     -   To be selfish and think only of themselves: 2 
+     -   not sure/both (with & without qualification): 8 
+
+468. The problem with democracy is that most people don't really know what's best for them.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+469. Most people have enough sense to tell whether the government is doing a good job.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+470. People who don't vote have no right to criticize the government.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+471. The government should pay the most attention to those citizens who are well informed.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+472. Those elected to Parliament soon lose touch with the people.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+473. Political parties spend too much time catering to minorities.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+474. Political parties generally try to look after the best interests of everybody and not just the interests of those who vote for them.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+475. Political parties do more to divide the country than to unit it.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+476. It is the duty of every citizen to vote.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+477. Immigrants make an important contribution to this country.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+478. Canadian unity is weakened by Canadians of different ethnic and cultural backgrounds sticking to their old ways.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+479. People like me don't have any say about what the government does.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+480. We have gone too far in pushing bilingualism in Canada.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+481. We could probably solve most of our big national problems if decisions could be brought back to the people at the grass roots.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+482. Please indicate how much CONFIDENCE you have in the following institutions. Organised religion.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+483. Please indicate how much CONFIDENCE you have in the following institutions. The armed forces.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+484. Please indicate how much CONFIDENCE you have in the following institutions. Public schools.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+485. Please indicate how much CONFIDENCE you have in the following institutions. The Supreme Court.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+486. Please indicate how much CONFIDENCE you have in the following institutions. The civil service.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+487. Please indicate how much CONFIDENCE you have in the following institutions. Unions.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+488. Please indicate how much CONFIDENCE you have in the following institutions. The police.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+489. Please indicate how much CONFIDENCE you have in the following institutions. The federal government.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+490. Please indicate how much CONFIDENCE you have in the following institutions. Your provincial or territorial government.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+491. Please indicate how much CONFIDENCE you have in the following institutions. Big business.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+492. Please indicate how much CONFIDENCE you have in the following institutions. The media.
+     -  A great deal: 1 
+     -   Quite a lot: 2 
+     -   Not very much: 3 
+     -   None at all: 4 
+
+493. Canada should participate in peacekeeping operations abroad even if it means putting the lives of Canadian soldiers at risk.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+494. International trade creates more jobs in Canada than it destroys.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+495. Too many recent immigrants just don't want to fit into Canadian society.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+496. Only people who are legally married should be having children.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+497. We must crack down on crime, even if that means that criminals lose their rights.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+498. Anglophones in Quebec are better treated than Francophone in the rest of Canada.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+499. Federal government services should be provided in only one language, French in Quebec and English in the rest of Canada.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+500. It is important to vote, even if my party or candidate has no chance of winning.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+501. We would have better laws if Members of Parliament were allowed to vote for what they thought was best rather than having to vote the same way as their party.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+502. So many people vote that my vote hardly counts for anything.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+503. If I did not vote, I would feel guilty.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+504. Sometimes politics and government seem so complicated that a person like me can't really understand what's going on.
+     -  Strongly agree: 1 
+     -   Agree: 2 
+     -   Disagree: 3 
+     -   Strongly disagree: 4 
+     -   not sure: 8 
+
+505. Do you happen to know which level of government has the PRIMARY responsibility for health, education and social welfare?
+     -  Provincial government: 1 
+     -   Federal government: 2 
+     -   Both 1 & 2 circled: 3 
+     -   not sure: 8 
+
+506. Which level of government do you think SHOULD have the PRIMARY responsibility for health, education and social welfare?
+     -  Provincial government: 1 
+     -   Federal government: 2 
+     -   Both 1 & 2 circled: 3 
+     -   not sure: 8 
+
+507. How good a job does your provincial government do with respect to health, education and social welfare?
+     -  A very good job: 1 
+     -   Quite a good job: 2 
+     -   Not a very good job: 3 
+     -   Not a good job at all: 4 
+     -   not sure: 8 
+
+508. How good a job does the federal government do with respect to health, education and social welfare?
+     -  A very good job: 1 
+     -   Quite a good job: 2 
+     -   Not a very good job: 3 
+     -   Not a good job at all: 4 
+     -   not sure: 8 
+
+509. When there is a conflict between the federal government and your provincial government, who do you think is usually to blame?
+     -  Federal government: 1 
+     -   Provincial government: 2 
+     -   Both about equally: 3 
+     -   not sure: 8 
+
+510. When your Premier takes part in meetings with the Prime Minister and other provincial premiers, whose interests should the Premier put first?
+     -  Interests of your province: 1 
+     -   Interests of Canada as a whole: 2 
+     -   Both 1 & 2 circled: 3 
+     -   not sure: 8 
+
+511. Who should be allowed to contribute to political parties and candidates?
+     -  Only individuals: 1 
+     -   Both individuals & groups such as corporations, unions: 2 
+     -   not sure: 8 
+
+512. Do you think it is a good thing or a bad thing to limit the amount of money that individuals and groups (other than candidates and parties) can spend to advertise their support for a party or a policy during an election campaign?
+     -  A good thing: 1 
+     -   A bad thing: 2 
+     -   not sure: 8 
+
+513. Do you think it is a good thing or a bad thing to require individuals and groups who advertise during an election campaign to make public how much they have spent?
+     -  A good thing: 1 
+     -   A bad thing: 2 
+     -   not sure: 8 
+
+514. Please circle any voluntary association(s) in which you have been active during the past five years: Community service group.
+     -  No: 0 
+     -   Yes: 1 
+
+515. Please circle any voluntary association(s) in which you have been active during the past five years: Business association.
+     -  No: 0 
+     -   Yes: 1 
+
+516. Please circle any voluntary association(s) in which you have been active during the past five years: Professional association.
+     -  No: 0 
+     -   Yes: 1 
+
+517. Please circle any voluntary association(s) in which you have been active during the past five years: Environmental group.
+     -  No: 0 
+     -   Yes: 1 
+
+518. Please circle any voluntary association(s) in which you have been active during the past five years: Women's group.
+     -  No: 0 
+     -   Yes: 1 
+
+519. Please circle any voluntary association(s) in which you have been active during the past five years: Labour union.
+     -  No: 0 
+     -   Yes: 1 
+
+520. Please circle any voluntary association(s) in which you have been active during the past five years: Ethnic association.
+     -  No: 0 
+     -   Yes: 1 
+
+521. Please circle any voluntary association(s) in which you have been active during the past five years: Sports association.
+     -  No: 0 
+     -   Yes: 1 
+
+522. Please circle any voluntary association(s) in which you have been active during the past five years: Religious organisation.
+     -  No: 0 
+     -   Yes: 1 
+
+523. Please circle any voluntary association(s) in which you have been active during the past five years: Other (please specify).
+     -  No: 0 
+     -   Yes: 1 
+
+524. Here is a list of political actions that people can take. Sign a petition.
+     -  Have done: 1 
+     -   Might do: 2 
+     -   Would never: 3 
+     -   not sure: 8 
+
+525. Here is a list of political actions that people can take. Join in a boycott.
+     -  Have done: 1 
+     -   Might do: 2 
+     -   Would never: 3 
+     -   not sure: 8 
+
+526. Here is a list of political actions that people can take. Attend a lawful demonstration.
+     -  Have done: 1 
+     -   Might do: 2 
+     -   Would never: 3 
+     -   not sure: 8 
+
+527. Here is a list of political actions that people can take. Join an illegal strike.
+     -  Have done: 1 
+     -   Might do: 2 
+     -   Would never: 3 
+     -   not sure: 8 
+
+528. Here is a list of political actions that people can take. Occupy a building or factory.
+     -  Have done: 1 
+     -   Might do: 2 
+     -   Would never: 3 
+     -   not sure: 8 
+
+529. Do you happen to remember the names of any candidates who ran in your riding in the last election? Candidate 1:
+     -  Correct name: 1 
+     -   Wrong name: 2 
+     -   Maybe (close): 3 
+
+530. Do you happen to remember the names of any candidates who ran in your riding in the last election? Candidate 2:
+     -  Correct name: 1 
+     -   Wrong name: 2 
+     -   Maybe (close): 3 
+
+531. Do you happen to remember the names of any candidates who ran in your riding in the last election? Candidate 3:
+     -  Correct name: 1 
+     -   Wrong name: 2 
+     -   Maybe (close): 3 
+
+532. Do you happen to remember the names of any candidates who ran in your riding in the last election? Don't remember any.
+     -  Don't remember: 8 
+
+533. Do you happen to remember the names of any candidates who ran in your riding in the last election? Candidate 1:
+     -  NA 
+
+534. Do you happen to remember the names of any candidates who ran in your riding in the last election? Candidate 2:
+     -  NA 
+
+535. Do you happen to remember the names of any candidates who ran in your riding in the last election? Candidate 3:
+     -  NA 
+
+536. Here is a list of activities that Members of Parliament often perform. Please rank these factors according to how important you think they should be: Helping their constituents deal with government red tape.
+     -  Most important: 1 
+     -   Least important: 4 
+
+537. Taking an active role in shaping public policy.
+     -  Most important: 1 
+     -   Least important: 4 
+
+538. Looking after the interests of their riding.
+     -  Most important: 1 
+     -   Least important: 4 
+
+539. Informing their constituents about government policy.
+     -  Most important: 1 
+     -   Least important: 4 
+
+540. Here is a list of factors that the Prime Minister may consider when choosing Cabinet Ministers. Please rank these factors according to how important you think they should be: Their expertise in a particular policy area.
+     -  Most important: 1 
+     -   Least important: 4 
+
+541. How long they have been in Parliament.
+     -  Most important: 1 
+     -   Least important: 4 
+
+542. The region they represent.
+     -  Most important: 1 
+     -   Least important: 4 
+
+543. Their social background characteristics such as gender, language and ethnicity.
+     -  Most important: 1 
+     -   Least important: 4 
+
+544. There are several different possible methods of voting. Please indicate how much CONFIDENCE you have in each of the following methods: Voting at a polling station.
+     -  A lot: 1 
+     -   Some: 2 
+     -   A little: 3 
+     -   None: 4 
+
+545. Voting by mail.
+     -  A lot: 1 
+     -   Some: 2 
+     -   A little: 3 
+     -   None: 4 
+
+546. Voting by Internet from home.
+     -  A lot: 1 
+     -   Some: 2 
+     -   A little: 3 
+     -   None: 4 
+
+547. Voting by telephone from home.
+     -  A lot: 1 
+     -   Some: 2 
+     -   A little: 3 
+     -   None: 4 
+
+548. Please circle the method you would MOST LIKE to use.
+     -  Voting at a polling station: 1 
+     -   Voting by mail: 2 
+     -   Voting by Internet from home: 3 
+     -   Voting by telephone from home: 4 
+     -   More than one circled: 5 
+
+549. Please circle the method you would LEAST LIKE to use.
+     -  Voting at a polling station: 1 
+     -   Voting by mail: 2 
+     -   Voting by Internet from home: 3 
+     -   Voting by telephone from home: 4 
+     -   More than one circled: 5 
+
+550. In some countries, people believe their elections are conducted fairly.  In other countries, people believe that their elections are conducted unfairly
+     -  Last election was conducted fairly: 1 
+     -   Last election was conducted unfairly: 5 
+
+551. Some people say that political parties in Canada care what ordinary people think. Others say that political parties in Canada don't care what ordinary people think.
+     -  Political parties in Canada care what ordinary people think: 1 
+     -   Political parties don't care what ordinary people think: 5 
+
+552. Some people say that political parties are necessary to make our political system work in Canada. Others think that political parties are not needed in Canada.
+     -  Political parties are necessary to make our system work: 1 
+     -   Political parties are not needed in Canada: 5 
+
+553. The federal government and all the provinces except Quebec signed an agreement on social programmes in 1990, called the Social Union Framework.  How much have you heard about this agreement:
+     -  A great deal: 1 
+     -   Some: 2 
+     -   Not much: 3 
+     -   Nothing at all: 4 
+     -   not sure: 8 
+
+554. How much do you think the social union agreement has done to improve social programmes?
+     -  A great deal: 1 
+     -   Some: 2 
+     -   Not much: 3 
+     -   Nothing at all: 4 
+     -   not sure: 8 
+
+555. How serious a problem do you think it is that Quebec did not sign the agreement:
+     -  Very serious: 1 
+     -   Somewhat serious: 2 
+     -   Not very serious: 3 
+     -   Not at all serious: 4 
+     -   not sure: 8 
+
+556. Here is a list of occupations. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Lawyer.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+557. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Social worker.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+558. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Carpenter.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+559. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Tailor, dressmaker or furrier.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+560. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Computer programmer.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+561. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Security guard.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+562. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Cashier.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+563. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Sales or marketing manager.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+564. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Sewing machine operator.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+565. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Delivery driver.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+566. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Human resources manager.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+567. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Janitor or caretaker.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+568. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Pharmacist.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+569. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Server (waiter or waitress).
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+570. Please put a circle in the appropriate column if you know any men or women in each of these occupations: Farmer.
+     -  Men: 1 
+     -   Women: 2 
+     -   Both: 3 
+
+571. Vous considerez-vous comme: (Do you consider yourself to be:)
+     -  Canadien(ne): 1 
+     -   Canadien(ne) - francais(e): 2 
+     -   Quebecois(e): 3 
+     -   Autre: 4 
+
+572. We are very interested in any further comments you may wish to make about these or related items.
+     -  Written comments: 1 
+
+573. Language of questionnaire
+     -  English: 1 
+     -   French: 2 
+
+574. Jolicoeur
+     -  Quebec: 1 
+
+575. Respondent <Campaign Period>
+     -  No: 0 
+     -   Yes-CPS: 1 
+
+576. Respondent <Post Election>
+     -  No: 0 
+     -   Yes-PES: 1 
+
+577. Respondent <Mailback>
+     -  No: 0 
+     -   Yes-MBS: 1 
+
+578. Responded To What Wave Of The Survey
+     -  CPS Only: 100 
+     -   CPS&PES: 110 
+     -   AllWaves: 111 
+
+579. Linking CPS/PES/MBS Respondents
+     -  Good Link or CPS Only: 1 
+     -   Probable Good Link (All 3 Waves): 2 
+     -   Probable Good Link (CPS & PES): 3 
+
+580. Household Weight - All Canada
+     -  NA 
+
+581. Provincial Weight - All Canada
+     -  NA 
+
+582. National Weight - All Canada
+     -  NA 
+
+583. Household Weight - Rest of Canada <No Quebec>
+     -  NA 
+
+584. Provincial Weight - Rest of Canada <No Quebec>
+     -  NA 
+
+585. National Weight - Rest of Canada <No Quebec>
+     -  NA 
+
+586. Household Weight - Quebec Only
+     -  NA 
+
+587. Household Weight - Atlantic Provinces
+     -  NA 
+
+588. Provincial Weight - Atlantic Provinces
+     -  NA 
+
+589. National Weight - Atlantic Provinces
+     -  NA 
+
+590. Household Weight - Western Provinces
+     -  NA 
+
+591. Provincial Weight - Western Provinces
+     -  NA 
+
+592. National Weight - Western Provinces
+     -  NA 
+
+593. New National Weight - Time Series
+     -  NA 
+
+594. Result 97 Liberal
+     -  NA 
+
+595. Result 97 Reform
+     -  NA 
+
+596. Result 97 NDP
+     -  NA 
+
+597. Result 97 PC
+     -  NA 
+
+598. Result 97 BQ
+     -  NA 
+
+599. Result 97 CHP of Canada
+     -  NA 
+
+600. Result 97 Canadian Action
+     -  NA 
+
+601. Result 97 Green Party
+     -  NA 
+
+602. Result 97 Independent #1
+     -  NA 
+
+603. Result 97 Independent #2
+     -  NA 
+
+604. Result 97 Independent #3
+     -  NA 
+
+605. Result 97 Marxist-Leninist
+     -  NA 
+
+606. Result 97 Natural Law
+     -  NA 
+
+607. Result 97 No Affiliation #1
+     -  NA 
+
+608. Result 97 No Affiliation #2
+     -  NA 
+
+609. Result 00 Alliance
+     -  NA 
+
+610. Result 00 NDP
+     -  NA 
+
+611. Result 00 PC
+     -  NA 
+
+612. Result 00 Liberal
+     -  NA 
+
+613. Result 00 BQ
+     -  NA 
+
+614. Result 00 Canadian Action
+     -  NA 
+
+615. Result 00 Communist
+     -  NA 
+
+616. Result 00 Green Party
+     -  NA 
+
+617. Result 00 Independent #1
+     -  NA 
+
+618. Result 00 Marijuana Party
+     -  NA 
+
+619. Result 00 Marxist-Leninist Party
+     -  NA 
+
+620. Result 00 Natural Law Party
+     -  NA 
+
+621. Result 00 No Affiliation #1
+     -  NA 
+
+622. Result 00 Independent #2
+     -  NA 
+
+623. Result 00 No Affiliation #2
+     -  NA 
+
+624. Incumbent 1997 Liberal
+     -  NA 
+
+625. Incumbent 1997 PC
+     -  NA 
+
+626. Incumbent 1997 Reform
+     -  NA 
+
+627. Incumbent 1997 NDP
+     -  NA 
+
+628. Incumbent 1997 BQ
+     -  NA 
+
+629. Incumbent 2000 Liberal
+     -  NA 
+
+630. Incumbent 2000 PC
+     -  NA 
+
+631. Incumbent 2000 Canadian Alliance
+     -  NA 
+
+632. Incumbent 2000 NDP
+     -  NA 
+
+633. Incumbent 2000 BQ
+     -  NA 
+
+634. Liberal Candidate Sex
+     -  male: 0 
+     -   female: 1 
+
+635. Alliance Candidate Sex
+     -  male: 0 
+     -   female: 1 
+
+636. PC Candidate Sex
+     -  male: 0 
+     -   female: 1 
+
+637. NDP Candidate Sex
+     -  male: 0 
+     -   female: 1 
+
+638. BQ Candidate Sex
+     -  male: 0 
+     -   female: 1 
+
+639. CONSTITUENCY POPULATION
+     -  NA 
+
+640. Size Population Male
+     -  NA 
+
+641. Male 0-4 Years
+     -  NA 
+
+642. Male 5-9 Years
+     -  NA 
+
+643. Male 10-14 Years
+     -  NA 
+
+644. Male 15-19 Years
+     -  NA 
+
+645. Male 20-24 Years
+     -  NA 
+
+646. Male 25-29 Years
+     -  NA 
+
+647. Male 30-34 Years
+     -  NA 
+
+648. Male 35-39 Years
+     -  NA 
+
+649. Male 40-44 Years
+     -  NA 
+
+650. Male 45-49 Years
+     -  NA 
+
+651. Male 50-54 Years
+     -  NA 
+
+652. Male 55-59 Years
+     -  NA 
+
+653. Male 60-64 Years
+     -  NA 
+
+654. Male 65-69 Years
+     -  NA 
+
+655. Male 70-74 Years
+     -  NA 
+
+656. Male 75-79 Years
+     -  NA 
+
+657. Male 80-84 Years
+     -  NA 
+
+658. Male 85+ Years
+     -  NA 
+
+659. Size Population Female
+     -  NA 
+
+660. Female 0-4 Years
+     -  NA 
+
+661. Female 5-9 Years
+     -  NA 
+
+662. Female 10-14 Years
+     -  NA 
+
+663. Female 15-19 Years
+     -  NA 
+
+664. Female 20-24 Years
+     -  NA 
+
+665. Female 25-29 Years
+     -  NA 
+
+666. Female 30-34 Years
+     -  NA 
+
+667. Female 35-39 Years
+     -  NA 
+
+668. Female 40-44 Years
+     -  NA 
+
+669. Female 45-49 Years
+     -  NA 
+
+670. Female 50-54 Years
+     -  NA 
+
+671. Female 55-59 Years
+     -  NA 
+
+672. Female 60-64 Years
+     -  NA 
+
+673. Female 65-69 Years
+     -  NA 
+
+674. Female 70-74 Years
+     -  NA 
+
+675. Female 75-79 Years
+     -  NA 
+
+676. Female 80-84 Years
+     -  NA 
+
+677. Female 85+ Years
+     -  NA 
+
+678. Population 15 and Over
+     -  NA 
+
+679. Never Married
+     -  NA 
+
+680. Married
+     -  NA 
+
+681. Separated (Still Legally Married)
+     -  NA 
+
+682. Divorced
+     -  NA 
+
+683. Widowed
+     -  NA 
+
+684. Total Census Families
+     -  NA 
+
+685. Census Families with 2 Persons
+     -  NA 
+
+686. Census Families with 3 Persons
+     -  NA 
+
+687. Census Families with 4 Persons
+     -  NA 
+
+688. Census Families with 5 or More Persons
+     -  NA 
+
+689. Total Households
+     -  NA 
+
+690. Households 1 Person
+     -  NA 
+
+691. Households 2 Person
+     -  NA 
+
+692. Households 3 Person
+     -  NA 
+
+693. Households 4-5 Person
+     -  NA 
+
+694. Households 6 Person
+     -  NA 
+
+695. Average Number of Persons in Private Households
+     -  NA 
+
+696. Total Population by Place of Birth
+     -  NA 
+
+697. Born in Canada
+     -  NA 
+
+698. Total Population Immigrant
+     -  NA 
+
+699. Non-Permanent Residents
+     -  NA 
+
+700. Mother Tongue Total Population
+     -  NA 
+
+701. Single Responses Total
+     -  NA 
+
+702. French
+     -  NA 
+
+703. English
+     -  NA 
+
+704. Non-Official Languages
+     -  NA 
+
+705. Multiple Responses Total
+     -  NA 
+
+706. English and French
+     -  NA 
+
+707. English and Non-Official
+     -  NA 
+
+708. French and Non-Official
+     -  NA 
+
+709. English/French Non-Official
+     -  NA 
+
+710. Total By Labor Force Activity
+     -  NA 
+
+711. In Labour Force
+     -  NA 
+
+712. Employed
+     -  NA 
+
+713. Unemployed (In the Labour)
+     -  NA 
+
+714. Not In the Labour Force (Inactive)
+     -  NA 
+
+715. Participation Rate (Labour)
+     -  NA 
+
+716. Employment-Population Ratio
+     -  NA 
+
+717. Unemployment Rate
+     -  NA 
+
+718. Total Population, 15+, By Highest Level of Schooling
+     -  NA 
+
+719. Less Than Grade 9
+     -  NA 
+
+720. Grades 9 to 13 without Secondary School Graduation
+     -  NA 
+
+721. Grades 9 to 13 with Secondary School Graduation
+     -  NA 
+
+722. Trades Certificate or Diploma
+     -  NA 
+
+723. Non-University without Certificate
+     -  NA 
+
+724. Non-University with Certificate or Diploma
+     -  NA 
+
+725. University without Certificate or Diploma
+     -  NA 
+
+726. University with Certificate or Diploma
+     -  NA 
+
+727. With Bachelor's Degree or Higher
+     -  NA 
+
+728. Total by Mobility Status 5 Years Ago
+     -  NA 
+
+729. Non-Movers
+     -  NA 
+
+730. Movers
+     -  NA 
+
+731. Average Income Individuals
+     -  NA 
+
+732. Median Income Individuals
+     -  NA 
+
+733. Standard Error of Average Income
+     -  NA 
+
+734. Average Household Income
+     -  NA 
+
+735. Median Household Income
+     -  NA 
+
+736. Standard Error Average Household Income
+     -  NA 
+
+737. Incidence of Low Income Percentage
+     -  NA 
+
+738. Average Income Male
+     -  NA 
+
+739. Median Income Male
+     -  NA 
+
+740. Standard Error Average Income Male
+     -  NA 
+
+741. Average Income Female
+     -  NA 
+
+742. Median Income Female
+     -  NA 
+
+743. Standard Error Average Income Female
+     -  NA 
+
+744. Total Labour Force 15+, By Occupational Categories
+     -  NA 
+
+745. Not Applicable
+     -  NA 
+
+746. All Occupations
+     -  NA 
+
+747. Management Occupations
+     -  NA 
+
+748. Business, Finance, Administration
+     -  NA 
+
+749. Natural Appled Science
+     -  NA 
+
+750. Health Occupations
+     -  NA 
+
+751. Social Science, Education, Government Service
+     -  NA 
+
+752. Arts, Culture, Recreation, Sports
+     -  NA 
+
+753. Sales and Service Occupations
+     -  NA 
+
+754. Trades, Transport, Equipment Operators
+     -  NA 
+
+755. Occupations Unique to Primary Sector
+     -  NA 
+
+756. Occupations Unique to Processing, Manufacturing and Utilities
+     -  NA 
+
+757. Total Male Labour Force, 15+, By Broad Categories
+     -  NA 
+
+758. Male Occupation Not Applicable
+     -  NA 
+
+759. Male Occupation Management Occupations
+     -  NA 
+
+760. Male Occupation Business, Finance Administrative
+     -  NA 
+
+761. Male Occupation Natural and Applied Science
+     -  NA 
+
+762. Male Occupation Health Occupations
+     -  NA 
+
+763. Male Occupation Social Science, Education, Government Service
+     -  NA 
+
+764. Male Occupation Art, Culture, Recreation and Sport
+     -  NA 
+
+765. Male Occupation Sales and Service Occupations
+     -  NA 
+
+766. Male Occupation Trades, Transport and Equipement Operators
+     -  NA 
+
+767. Male Occupation Unique to Primary Sector
+     -  NA 
+
+768. Male Occupation Unique to Processing, Manufacturing and Utilities
+     -  NA 
+
+769. Total Female Labour Force, 15+ By Broad Categories
+     -  NA 
+
+770. Female Occupation Not Applicable
+     -  NA 
+
+771. Female Occupation Management Occupations
+     -  NA 
+
+772. Female Occupation Business, Finance and Administrative Occupations
+     -  NA 
+
+773. Female Occupation Natural and Applied Science
+     -  NA 
+
+774. Health Occupations
+     -  NA 
+
+775. Female Occupation Social Science, Education, Government Service
+     -  NA 
+
+776. Female Occupation Art, Culture, Recreation and Sports
+     -  NA 
+
+777. Female Occupation Sales and Service Occupations
+     -  NA 
+
+778. Female Occupation Trades, Transport and Equipement Operators
+     -  NA 
+
+779. Female Occupation Unique to Primary Industry
+     -  NA 
+
+780. Female Occupation Unique to Processing, Manufacturing and Utilities
+     -  NA 

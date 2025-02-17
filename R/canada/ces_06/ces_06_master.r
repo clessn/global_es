@@ -1,11 +1,7 @@
 library(dplyr)
 
 # Load the data
-<<<<<<< HEAD:R/canada/ces_06/ces_06_Master.R
-DataRaw_06 <- read.csv("_SharedFolder_global_es/data/canada/raw/ces06_RawData_2018-11-05.csv")
-=======
-Df_raw_06 <- read.csv("_SharedFolder_global_es/data/canada/raw/data_ces_2006_raw.rds")
->>>>>>> 5e9f9944b2bc2e433377ca7896978fc32e51eacf:R/canada/ces_06/ces_06_master.r
+DataRaw_06 <- readRDS("_SharedFolder_global_es/data/canada/raw/data_ces_2006_raw.rds")
 
 # Create clean dataframe
 DataClean_06 <- data.frame(id = 1:nrow(DataRaw_06))
