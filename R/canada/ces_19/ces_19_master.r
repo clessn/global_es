@@ -1,7 +1,7 @@
 library(dplyr)
 
 # Load the data
-Df_raw_19 <- read.csv("_SharedFolder_global_es/data/canada/raw/ces19_RawData_2021-07-16.csv")
+Df_raw_19 <- read.csv("_SharedFolder_global_es/data/canada/raw/data_ces_2019_raw.rds")
 
 # Create clean dataframe
 Df_clean_19 <- data.frame(id = 1:nrow(Df_raw_19))
