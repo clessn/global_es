@@ -1,12 +1,12 @@
 library(dplyr)
 
 # Load the data
-Df_raw_06 <- read.csv("_SharedFolder_global_es/data/canada/raw/data_ces_2006_raw.rds")
+DataRaw_06 <- readRDS("_SharedFolder_global_es/data/canada/raw/data_ces_2006_raw.rds")
 
 # Create clean dataframe
-Df_clean_06 <- data.frame(id = 1:nrow(Df_raw_06))
-Df_clean_06$year <- 2006
-Df_clean_06$country <- "ca"
+DataClean_06 <- data.frame(id = 1:nrow(DataRaw_06))
+DataClean_06$year <- 2006
+DataClean_06$country <- "ca"
 
 # Clean ses
 
