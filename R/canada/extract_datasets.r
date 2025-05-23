@@ -19,35 +19,38 @@ urls <- c(
   "https://borealisdata.ca/api/access/datafile/563752",
   "https://borealisdata.ca/api/access/datafile/563439",
   "https://borealisdata.ca/api/access/datafile/563961",
-  # CSV files
-  "https://borealisdata.ca/api/access/datafile/563945",
-  "https://borealisdata.ca/api/access/datafile/564211",
-  "https://borealisdata.ca/api/access/datafile/658988"
+  "https://borealisdata.ca/api/access/datafile/563704",
+  "https://borealisdata.ca/api/access/datafile/563748",
+  "https://borealisdata.ca/api/access/datafile/658983"
 )
 
 # Create output directory
-output_dir <- "_SharedFolder_global_es/data/canada/raw"
+output_dir <- "_SharedFolder_global_es_1/data/canada/raw"
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 
 # Process each dataset
 for (i in seq_along(years)) {
   year <- years[i]
   url <- urls[i]
-  
+
   # Select appropriate reader
   if (year == "2019") {
-    ces_data <- read.csv(url)
-  } else if (year %in% c("2015", "2021")) {
-    ces_data <- read_csv(url)
-  } else {
+    ces_data <- read_sav(url, encoding = "Latin1")
+  } else if (year == "2021") {
+    ces_data <- read_dta(url, encoding = "UTF-8")
+  } else if (year == "2015") {
+    ces_data <- read_sav(url, encoding = "Latin1")
+  } else if (grepl("20", year)) { # Assuming other 2000s years are .sav
+    ces_data <- read_sav(url)
+  } else { # Assuming pre-2000s years are .sav
     ces_data <- read_sav(url)
   }
-  
+
   # Save as RDS
   filename <- paste0("data_ces_", year, "_raw.rds")
   save_path <- file.path(output_dir, filename)
   saveRDS(ces_data, save_path)
-  
+
   message("Successfully processed: ", year)
 }
 
